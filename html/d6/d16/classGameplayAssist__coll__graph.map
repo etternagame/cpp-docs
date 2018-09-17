@@ -1,0 +1,9 @@
+<map id="GameplayAssist" name="GameplayAssist">
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="633,154,719,181" />
+<area shape="rect" href="$d3/d9d/classRageSoundBase.html" title="RageSoundBase" alt="RageSoundBase" coords="276,6,391,33" />
+<area shape="rect" href="$d7/d85/structRageSoundParams.html" title="The parameters to play a sound. " alt="RageSoundParams" coords="267,60,400,86" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="267,116,400,142" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,206,141,249" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="289,246,377,273" />
+<area shape="rect" href="$dd/dd0/classpos__map__queue.html" title="pos_map_queue" alt="pos_map_queue" coords="273,318,393,345" />
+</map>

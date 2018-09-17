@@ -1,0 +1,35 @@
+<map id="Player" name="Player">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="1170,203,1261,229" />
+<area shape="rect" href="$d1/dc0/classNoteField.html" title="An Actor that renders NoteData. " alt="NoteField" coords="2096,1061,2170,1088" />
+<area shape="rect" href="$da/d11/classLifeMeter.html" title="The player&#39;s life. " alt="LifeMeter" coords="1609,297,1686,324" />
+<area shape="rect" href="$d2/ddc/classScoreDisplay.html" title="ScoreDisplay" alt="ScoreDisplay" coords="1601,505,1694,532" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="802,769,850,796" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="1192,929,1240,956" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="1172,1273,1260,1300" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="1608,836,1688,863" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="341,268,437,295" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="328,2115,450,2157" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="1570,1739,1725,1765" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="1148,1981,1284,2008" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="782,2675,870,2701" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="1576,1887,1720,1913" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="1173,2432,1258,2459" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="782,2376,870,2403" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="1569,2136,1726,2163" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="349,459,429,485" />
+<area shape="rect" href="$d0/d24/classPlayerStageStats.html" title="Contains statistics for one stage of play - either one song, or a whole course. " alt="PlayerStageStats" coords="1157,693,1274,720" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="774,1736,878,1763" />
+<area shape="rect" href="$d6/de4/classScoreKeeper.html" title="Abstract class to handle scorekeeping, stat-taking, etc. " alt="ScoreKeeper" coords="1602,652,1693,679" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="1180,1181,1252,1208" />
+<area shape="rect" href="$df/d8c/classNoteData_1_1__all__tracks__iterator.html" title="NoteData::_all_tracks\l_iterator\&lt; ND, iter, TN \&gt;" alt="NoteData::_all_tracks\l_iterator\&lt; ND, iter, TN \&gt;" coords="1128,1387,1304,1429" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="1174,492,1257,519" />
+<area shape="rect" href="$d5/dbf/structNoteFieldRenderArgs.html" title="NoteFieldRenderArgs" alt="NoteFieldRenderArgs" coords="1570,1031,1725,1057" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="774,1943,878,1969" />
+<area shape="rect" href="$d3/d4e/classQuad.html" title="A rectangular shaped Actor with color. " alt="Quad" coords="1625,973,1670,1000" />
+<area shape="rect" href="$d5/d12/structNoteField_1_1NoteDisplayCols.html" title="NoteField::NoteDisplayCols" alt="NoteField::NoteDisplayCols" coords="1554,1212,1741,1239" />
+<area shape="rect" href="$d3/dd4/classJudgedRows.html" title="Helper class to ensure that each row is only judged once without taking too much memory. " alt="JudgedRows" coords="2086,2849,2180,2876" />
+<area shape="rect" href="$d3/d9d/classRageSoundBase.html" title="RageSoundBase" alt="RageSoundBase" coords="769,2573,884,2600" />
+<area shape="rect" href="$d7/d85/structRageSoundParams.html" title="The parameters to play a sound. " alt="RageSoundParams" coords="760,2624,893,2651" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="760,2432,893,2459" />
+<area shape="rect" href="$dd/dd0/classpos__map__queue.html" title="pos_map_queue" alt="pos_map_queue" coords="766,2512,886,2539" />
+</map>

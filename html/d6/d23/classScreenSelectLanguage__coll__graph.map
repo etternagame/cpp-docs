@@ -1,0 +1,15 @@
+<map id="ScreenSelectLanguage" name="ScreenSelectLanguage">
+<area shape="rect" href="$d8/d57/classScreenSelectMaster.html" title="The master Screen for many children Screens. " alt="ScreenSelectMaster" coords="1013,652,1146,679" />
+<area shape="rect" href="$d8/db5/classScreenSelect.html" title="Base class for Style, Difficulty, and Mode selection screens. " alt="ScreenSelect" coords="533,263,621,289" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="18,220,173,247" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="17,365,174,392" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="490,457,664,500" />
+<area shape="rect" href="$db/dd7/classRandomSample.html" title="RandomSample" alt="RandomSample" coords="520,524,634,551" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric1D\&lt; StdString\l::CStdStr \&gt;" coords="482,580,672,623" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; LuaReference \&gt;" alt="ThemeMetric\&lt; LuaReference \&gt;" coords="466,652,688,679" />
+<area shape="rect" href="$d9/dcd/classActorScroller.html" title="ActorFrame that moves its children. " alt="ActorScroller" coords="529,716,625,743" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; float \&gt;" alt="ThemeMetric1D\&lt; float \&gt;" coords="490,812,664,839" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="505,892,649,919" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="537,1068,617,1095" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="534,1148,620,1175" />
+</map>

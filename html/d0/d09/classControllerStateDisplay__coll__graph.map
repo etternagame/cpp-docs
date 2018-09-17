@@ -1,0 +1,11 @@
+<map id="ControllerStateDisplay" name="ControllerStateDisplay">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="389,300,480,327" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="256,183,304,209" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="231,300,311,327" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="107,17,203,44" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="467,17,547,44" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="453,183,557,209" />
+<area shape="rect" href="$d1/daa/structControllerStateDisplay_1_1Button.html" title="ControllerStateDisplay\l::Button" alt="ControllerStateDisplay\l::Button" coords="83,391,240,433" />
+<area shape="rect" href="$d5/dd7/structGameInput.html" title="An input event specific to an InputScheme defined by a logical controller and button. " alt="GameInput" coords="7,300,92,327" />
+<area shape="rect" href="$d2/dd2/structDeviceInput.html" title="DeviceInput" alt="DeviceInput" coords="116,300,207,327" />
+</map>

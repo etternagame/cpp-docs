@@ -1,0 +1,15 @@
+<map id="OptionsList" name="OptionsList">
+<area shape="rect" href="$d6/d2c/classOptionListRow.html" title="OptionListRow" alt="OptionListRow" coords="1351,748,1463,775" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="771,663,861,689" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="415,780,463,807" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="776,780,856,807" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="32,989,128,1016" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,469,141,512" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="729,364,903,407" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="371,255,507,281" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="737,193,895,220" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="40,783,120,809" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="28,271,132,297" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="28,57,132,84" />
+<area shape="rect" href="$d5/d2f/classInputQueueCodeSet.html" title="InputQueueCodeSet" alt="InputQueueCodeSet" coords="745,1132,887,1159" />
+</map>

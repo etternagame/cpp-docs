@@ -1,0 +1,17 @@
+<map id="PaneDisplay" name="PaneDisplay">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="853,398,944,425" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="456,286,504,313" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="855,777,943,804" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="859,501,939,528" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="44,52,140,78" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="31,826,153,869" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="812,1192,985,1234" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="412,1281,548,1308" />
+<area shape="rect" href="$d8/de4/classLocalizedString.html" title="Get a String based on the user&#39;s natural language. " alt="LocalizedString" coords="424,586,536,613" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="460,637,500,664" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="52,457,132,484" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="373,504,587,530" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="40,1180,144,1206" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="40,1400,144,1426" />
+<area shape="rect" href="$d8/d44/classILocalizedStringImpl.html" title="ILocalizedStringImpl" alt="ILocalizedStringImpl" coords="19,580,165,606" />
+</map>

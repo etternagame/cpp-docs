@@ -1,0 +1,8 @@
+<map id="PlayerState" name="PlayerState">
+<area shape="rect" href="$de/d39/classSongPosition.html" title="SongPosition" alt="SongPosition" coords="530,201,624,228" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="18,263,101,289" />
+<area shape="rect" href="$d6/d78/classModsGroup.html" title="ModsGroup\&lt; PlayerOptions \&gt;" alt="ModsGroup\&lt; PlayerOptions \&gt;" coords="708,301,918,328" />
+<area shape="rect" href="$d6/d78/classModsGroup.html" title="ModsGroup\&lt; T \&gt;" alt="ModsGroup\&lt; T \&gt;" coords="318,324,446,351" />
+<area shape="rect" href="$d9/d2e/classSampleHistory.html" title="Store a trailing history of values, and retrieve values with interpolation. " alt="SampleHistory" coords="760,75,866,101" />
+<area shape="rect" href="$dc/d87/classPlayerOptions.html" title="Per-player options that are not saved between sessions. " alt="PlayerOptions" coords="332,380,433,407" />
+</map>

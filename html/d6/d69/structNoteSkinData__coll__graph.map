@@ -1,0 +1,6 @@
+<map id="NoteSkinData" name="NoteSkinData">
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="283,95,405,137" />
+<area shape="rect" href="$d5/d98/classIniFile.html" title="The functions to read and write .INI files. " alt="IniFile" coords="305,321,356,348" />
+<area shape="rect" href="$df/d53/classXNode.html" title="XNode" alt="XNode" coords="432,220,491,247" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="380,321,484,348" />
+</map>

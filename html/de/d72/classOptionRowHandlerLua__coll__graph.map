@@ -1,0 +1,5 @@
+<map id="OptionRowHandlerLua" name="OptionRowHandlerLua">
+<area shape="rect" href="$d0/d4e/classOptionRowHandler.html" title="Shows PlayerOptions and SongOptions in icon form. " alt="OptionRowHandler" coords="7,215,148,241" />
+<area shape="rect" href="$dc/d99/structOptionRowDefinition.html" title="Define the purpose of the OptionRow. " alt="OptionRowDefinition" coords="251,124,405,151" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="172,215,276,241" />
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" href="$d3/d05/classLoadingWindow.html" title="Opens and displays the loading banner. " alt="LoadingWindow" coords="17,108,140,134" />
+<area shape="rect" href="$d7/dae/classLoadingWindow__Gtk.html" title="LoadingWindow_Gtk" alt="LoadingWindow_Gtk" coords="205,6,363,33" />
+<area shape="rect" href="$d8/d81/classLoadingWindow__MacOSX.html" title="Loading window for Mac OS X. " alt="LoadingWindow_MacOSX" coords="188,57,380,84" />
+<area shape="rect" href="$d7/d0c/classLoadingWindow__Null.html" title="LoadingWindow_Null" alt="LoadingWindow_Null" coords="204,108,364,134" />
+<area shape="rect" href="$d8/db0/classLoadingWindow__Win32.html" title="LoadingWindow_Win32" alt="LoadingWindow_Win32" coords="196,158,372,185" />
+<area shape="rect" href="$df/d25/classScreenReloadSongsLoadingWindow.html" title="ScreenReloadSongsLoading\lWindow" alt="ScreenReloadSongsLoading\lWindow" coords="188,209,380,252" />
+</map>

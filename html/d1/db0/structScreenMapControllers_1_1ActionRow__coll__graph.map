@@ -1,0 +1,5 @@
+<map id="ScreenMapControllers::ActionRow" name="ScreenMapControllers::ActionRow">
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="24,95,147,137" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="117,204,165,231" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="109,297,189,324" />
+</map>

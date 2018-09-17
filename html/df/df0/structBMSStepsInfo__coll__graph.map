@@ -1,0 +1,10 @@
+<map id="BMSStepsInfo" name="BMSStepsInfo">
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="1160,448,1203,475" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Steps \&gt;" alt="CachedObject\&lt; Steps \&gt;" coords="1372,448,1535,475" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="841,595,884,621" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="443,399,531,425" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,281,141,324" />
+<area shape="rect" href="$d9/d19/structBMSChartInfo.html" title="BMSChartInfo" alt="BMSChartInfo" coords="613,69,723,96" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; NoteData \&gt;" alt="HiddenPtr\&lt; NoteData \&gt;" coords="779,744,947,771" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="815,480,911,507" />
+</map>

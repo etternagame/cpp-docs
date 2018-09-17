@@ -1,0 +1,10 @@
+<map id="NoteDisplay" name="NoteDisplay">
+<area shape="rect" href="$d7/d42/structNoteColorActor.html" title="NoteColorActor" alt="NoteColorActor" coords="535,89,649,116" />
+<area shape="rect" href="$d7/dad/structNoteMetricCache__t.html" title="NoteMetricCache_t" alt="NoteMetricCache_t" coords="523,147,661,173" />
+<area shape="rect" href="$d7/d3e/structRageVector2.html" title="RageVector2" alt="RageVector2" coords="76,80,172,107" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="551,240,633,267" />
+<area shape="rect" href="$de/d39/classSongPosition.html" title="SongPosition" alt="SongPosition" coords="77,208,171,235" />
+<area shape="rect" href="$d9/d2e/classSampleHistory.html" title="Store a trailing history of values, and retrieve values with interpolation. " alt="SampleHistory" coords="71,272,177,299" />
+<area shape="rect" href="$d6/d78/classModsGroup.html" title="ModsGroup\&lt; PlayerOptions \&gt;" alt="ModsGroup\&lt; PlayerOptions \&gt;" coords="19,336,229,363" />
+<area shape="rect" href="$d2/de2/structNoteColorSprite.html" title="NoteColorSprite" alt="NoteColorSprite" coords="535,313,649,340" />
+</map>

@@ -1,0 +1,7 @@
+<map id="ActorScroller" name="ActorScroller">
+<area shape="rect" href="$dd/d28/classActorScrollerAutoDeleteChildren.html" title="ActorScrollerAutoDeleteChildren" alt="ActorScrollerAutoDeleteChildren" coords="7,241,236,268" />
+<area shape="rect" href="$d1/d7c/classDynamicActorScroller.html" title="ActorScroller that fills in its children on the fly. " alt="DynamicActorScroller" coords="260,241,417,268" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="184,92,275,119" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="205,17,253,44" />
+<area shape="rect" href="$d9/d01/classDynamicActorScrollerAutoDeleteChildren.html" title="an ActorScroller that deletes its children automatically. " alt="DynamicActorScrollerAuto\lDeleteChildren" coords="243,316,435,359" />
+</map>

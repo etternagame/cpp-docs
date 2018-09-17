@@ -1,0 +1,12 @@
+<map id="ScoreDisplayLifeTime" name="ScoreDisplayLifeTime">
+<area shape="rect" href="$d2/ddc/classScoreDisplay.html" title="ScoreDisplay" alt="ScoreDisplay" coords="1032,123,1125,149" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="705,8,796,35" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="349,91,397,117" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="707,401,795,428" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="865,61,945,88" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,308,141,351" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="353,699,393,725" />
+<area shape="rect" href="$d0/d24/classPlayerStageStats.html" title="Contains statistics for one stage of play - either one song, or a whole course. " alt="PlayerStageStats" coords="692,191,809,217" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="709,123,792,149" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="267,513,480,540" />
+</map>

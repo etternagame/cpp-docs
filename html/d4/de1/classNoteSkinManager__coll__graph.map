@@ -1,0 +1,7 @@
+<map id="NoteSkinManager" name="NoteSkinManager">
+<area shape="rect" href="$de/de9/structGame.html" title="Holds information about a particular style of a game (e.g. &quot;single&quot;, &quot;double&quot;). " alt="Game" coords="228,116,276,142" />
+<area shape="rect" href="$db/d47/structGame_1_1PerButtonInfo.html" title="Game::PerButtonInfo" alt="Game::PerButtonInfo" coords="7,17,156,44" />
+<area shape="rect" href="$d2/dff/classStyle.html" title="Style" alt="Style" coords="231,17,273,44" />
+<area shape="rect" href="$d8/dd2/classInputScheme.html" title="InputScheme" alt="InputScheme" coords="332,17,428,44" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="339,108,461,150" />
+</map>

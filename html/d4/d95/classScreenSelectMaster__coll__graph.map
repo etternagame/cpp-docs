@@ -1,0 +1,24 @@
+<map id="ScreenSelectMaster" name="ScreenSelectMaster">
+<area shape="rect" href="$d8/db5/classScreenSelect.html" title="Base class for Style, Difficulty, and Mode selection screens. " alt="ScreenSelect" coords="1847,875,1935,901" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="1289,915,1476,941" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="827,1064,981,1091" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="28,711,132,737" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="400,1220,536,1247" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="817,1255,991,1297" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="825,784,983,811" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric1D\&lt; StdString\l::CStdStr \&gt;" coords="1796,349,1985,392" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; T \&gt;" alt="ThemeMetric1D\&lt; T \&gt;" coords="1307,200,1459,227" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; LuaReference \&gt;" alt="ThemeMetric\&lt; LuaReference \&gt;" coords="793,1675,1015,1701" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; float \&gt;" alt="ThemeMetric1D\&lt; float \&gt;" coords="1804,279,1977,305" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="832,1404,976,1431" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,1280,141,1323" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="633,1827,719,1853" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="28,1624,132,1651" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="423,1999,513,2025" />
+<area shape="rect" href="$d9/d67/classLuaExpressionTransform.html" title="Handle transforming a list of items. " alt="LuaExpressionTransform" coords="379,1936,557,1963" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="864,663,944,689" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="1341,969,1424,996" />
+<area shape="rect" href="$db/dd7/classRandomSample.html" title="RandomSample" alt="RandomSample" coords="1589,457,1704,484" />
+<area shape="rect" href="$d9/dcd/classActorScroller.html" title="ActorFrame that moves its children. " alt="ActorScroller" coords="856,1912,952,1939" />
+<area shape="rect" href="$d3/d4e/classQuad.html" title="A rectangular shaped Actor with color. " alt="Quad" coords="445,1880,491,1907" />
+</map>

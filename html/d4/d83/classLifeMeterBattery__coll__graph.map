@@ -1,0 +1,27 @@
+<map id="LifeMeterBattery" name="LifeMeterBattery">
+<area shape="rect" href="$da/d11/classLifeMeter.html" title="The player&#39;s life. " alt="LifeMeter" coords="1167,880,1244,906" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="748,713,839,740" />
+<area shape="rect" href="$df/d08/classPercentageDisplay.html" title="An Actor that displays a percentage. " alt="PercentageDisplay" coords="1140,650,1271,677" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="349,653,397,680" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="749,396,837,422" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="944,546,1024,573" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,1404,141,1446" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; TapNoteScore \&gt;" alt="ThemeMetric\&lt; TapNoteScore \&gt;" coords="1096,1156,1315,1182" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="725,1662,861,1689" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="1119,1212,1292,1254" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="353,148,393,174" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; LuaReference \&gt;" alt="ThemeMetric\&lt; LuaReference \&gt;" coords="1095,1757,1316,1784" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="1133,1872,1277,1898" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="751,2237,836,2264" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="329,2298,417,2325" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="1127,1488,1284,1514" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="321,1236,425,1262" />
+<area shape="rect" href="$d0/d24/classPlayerStageStats.html" title="Contains statistics for one stage of play - either one song, or a whole course. " alt="PlayerStageStats" coords="735,816,852,842" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="752,940,835,966" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="321,1613,425,1640" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="267,476,480,502" />
+<area shape="rect" href="$d3/d9d/classRageSoundBase.html" title="RageSoundBase" alt="RageSoundBase" coords="316,2117,431,2144" />
+<area shape="rect" href="$d7/d85/structRageSoundParams.html" title="The parameters to play a sound. " alt="RageSoundParams" coords="307,2168,440,2194" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="307,2354,440,2381" />
+<area shape="rect" href="$dd/dd0/classpos__map__queue.html" title="pos_map_queue" alt="pos_map_queue" coords="313,2434,433,2461" />
+</map>

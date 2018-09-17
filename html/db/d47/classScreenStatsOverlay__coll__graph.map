@@ -1,0 +1,14 @@
+<map id="ScreenStatsOverlay" name="ScreenStatsOverlay">
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="1194,271,1248,297" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="749,184,840,211" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="349,157,397,184" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="770,8,818,35" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="750,691,838,717" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,337,141,380" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="717,401,872,428" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="716,532,873,559" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="353,755,393,781" />
+<area shape="rect" href="$d5/d2f/classInputQueueCodeSet.html" title="InputQueueCodeSet" alt="InputQueueCodeSet" coords="724,60,865,87" />
+<area shape="rect" href="$d3/d4e/classQuad.html" title="A rectangular shaped Actor with color. " alt="Quad" coords="1198,96,1244,123" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="266,505,480,532" />
+</map>

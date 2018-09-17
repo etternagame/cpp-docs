@@ -1,0 +1,10 @@
+<map id="ScoreKeeper" name="ScoreKeeper">
+<area shape="rect" href="$d0/d24/classPlayerStageStats.html" title="Contains statistics for one stage of play - either one song, or a whole course. " alt="PlayerStageStats" coords="700,608,817,635" />
+<area shape="rect" href="$dd/dc1/structHighScore.html" title="The high score that is earned by a player. " alt="HighScore" coords="333,392,411,419" />
+<area shape="rect" href="$d9/d2e/classSampleHistory.html" title="Store a trailing history of values, and retrieve values with interpolation. " alt="SampleHistory" coords="319,16,425,43" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="324,464,420,491" />
+<area shape="rect" href="$d2/dff/classStyle.html" title="Style" alt="Style" coords="351,736,393,763" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="717,169,800,196" />
+<area shape="rect" href="$de/d39/classSongPosition.html" title="SongPosition" alt="SongPosition" coords="325,137,419,164" />
+<area shape="rect" href="$d6/d78/classModsGroup.html" title="ModsGroup\&lt; PlayerOptions \&gt;" alt="ModsGroup\&lt; PlayerOptions \&gt;" coords="267,201,477,228" />
+</map>

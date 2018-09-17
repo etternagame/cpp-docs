@@ -1,0 +1,6 @@
+<map id="ActorScrollerAutoDeleteChildren" name="ActorScrollerAutoDeleteChildren">
+<area shape="rect" href="$d9/dcd/classActorScroller.html" title="ActorFrame that moves its children. " alt="ActorScroller" coords="163,108,259,135" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="7,17,97,44" />
+<area shape="rect" href="$d9/d67/classLuaExpressionTransform.html" title="Handle transforming a list of items. " alt="LuaExpressionTransform" coords="121,17,300,44" />
+<area shape="rect" href="$d3/d4e/classQuad.html" title="A rectangular shaped Actor with color. " alt="Quad" coords="423,17,468,44" />
+</map>

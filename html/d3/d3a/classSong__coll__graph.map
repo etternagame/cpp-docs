@@ -1,0 +1,8 @@
+<map id="Song" name="Song">
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Song \&gt;" alt="CachedObject\&lt; Song \&gt;" coords="1465,356,1628,382" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="Cached object pointers with automatic invalidation. " alt="CachedObject\&lt; T \&gt;" coords="1157,292,1296,318" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="812,134,900,161" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="325,289,448,332" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" coords="765,553,947,596" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\&lt; T \&gt;" alt="AutoPtrCopyOnWrite\&lt; T \&gt;" coords="289,582,484,609" />
+</map>

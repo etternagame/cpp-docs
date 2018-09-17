@@ -1,0 +1,8 @@
+<map id="Game" name="Game">
+<area shape="rect" href="$db/d47/structGame_1_1PerButtonInfo.html" title="Game::PerButtonInfo" alt="Game::PerButtonInfo" coords="7,108,156,134" />
+<area shape="rect" href="$d2/dff/classStyle.html" title="Style" alt="Style" coords="205,108,248,134" />
+<area shape="rect" href="$da/daa/structStyle_1_1ColumnInfo.html" title="Some general column infromation. " alt="Style::ColumnInfo" coords="152,17,280,44" />
+<area shape="rect" href="$d8/dd2/classInputScheme.html" title="InputScheme" alt="InputScheme" coords="363,108,459,134" />
+<area shape="rect" href="$df/d3a/structInputScheme_1_1GameButtonInfo.html" title="InputScheme::GameButtonInfo" alt="InputScheme::GameButtonInfo" coords="304,17,517,44" />
+<area shape="rect" href="$d5/d88/structAutoMappings.html" title="AutoMappings" alt="AutoMappings" coords="545,17,655,44" />
+</map>

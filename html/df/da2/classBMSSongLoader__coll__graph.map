@@ -1,0 +1,5 @@
+<map id="BMSSongLoader" name="BMSSongLoader">
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="24,94,147,137" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="100,361,143,388" />
+<area shape="rect" href="$df/d7d/classBMSSong.html" title="BMSSong" alt="BMSSong" coords="89,452,164,478" />
+</map>

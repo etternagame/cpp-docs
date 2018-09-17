@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" href="$d7/d71/classITween.html" title="The interface for simple interpolation. " alt="ITween" coords="19,133,77,160" />
+<area shape="rect" href="$d6/d1f/structInterpolateBezier1D.html" title="InterpolateBezier1D" alt="InterpolateBezier1D" coords="128,7,267,33" />
+<area shape="rect" href="$d7/d37/structInterpolateBezier2D.html" title="InterpolateBezier2D" alt="InterpolateBezier2D" coords="127,57,268,84" />
+<area shape="rect" href="$d7/d0c/structTweenAccelerate.html" title="TweenAccelerate" alt="TweenAccelerate" coords="136,108,259,135" />
+<area shape="rect" href="$d9/d26/structTweenDecelerate.html" title="TweenDecelerate" alt="TweenDecelerate" coords="136,159,259,185" />
+<area shape="rect" href="$d3/dc1/structTweenLinear.html" title="TweenLinear" alt="TweenLinear" coords="149,209,245,236" />
+<area shape="rect" href="$d3/d19/structTweenSpring.html" title="TweenSpring" alt="TweenSpring" coords="149,260,245,287" />
+</map>

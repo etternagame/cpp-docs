@@ -1,0 +1,22 @@
+<map id="NoteColumnRenderer" name="NoteColumnRenderer">
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="901,1021,949,1048" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="403,872,536,899" />
+<area shape="rect" href="$d7/d3e/structRageVector2.html" title="RageVector2" alt="RageVector2" coords="421,627,517,653" />
+<area shape="rect" href="$d7/dad/structNoteMetricCache__t.html" title="NoteMetricCache_t" alt="NoteMetricCache_t" coords="856,427,995,453" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="17,1189,113,1216" />
+<area shape="rect" href="$db/db5/structActor_1_1TweenState.html" title="The present state for the Tween. " alt="Actor::TweenState" coords="405,1232,533,1259" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="408,979,531,1021" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; LuaClass \&gt;" alt="HiddenPtr\&lt; LuaClass \&gt;" coords="387,1411,552,1437" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="25,1373,105,1400" />
+<area shape="rect" href="$de/d29/structNoteColumnRenderArgs.html" title="NoteColumnRenderArgs" alt="NoteColumnRenderArgs" coords="1179,1483,1355,1509" />
+<area shape="rect" href="$df/d6a/classGhostArrowRow.html" title="Row of GhostArrow Actors. " alt="GhostArrowRow" coords="863,675,988,701" />
+<area shape="rect" href="$d1/d46/classNoteDisplay.html" title="Draws TapNotes and HoldNotes. " alt="NoteDisplay" coords="1221,303,1312,329" />
+<area shape="rect" href="$d7/d42/structNoteColorActor.html" title="NoteColorActor" alt="NoteColorActor" coords="868,303,983,329" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="428,519,511,545" />
+<area shape="rect" href="$d5/dbf/structNoteFieldRenderArgs.html" title="NoteFieldRenderArgs" alt="NoteFieldRenderArgs" coords="1189,611,1344,637" />
+<area shape="rect" href="$d8/dbd/classReceptorArrowRow.html" title="A row of ReceptorArrow objects. " alt="ReceptorArrowRow" coords="853,492,997,519" />
+<area shape="rect" href="$d2/de2/structNoteColorSprite.html" title="NoteColorSprite" alt="NoteColorSprite" coords="868,159,983,185" />
+<area shape="rect" href="$da/d0c/structNoteColumnRenderer_1_1NCR__TweenState.html" title="NoteColumnRenderer\l::NCR_TweenState" alt="NoteColumnRenderer\l::NCR_TweenState" coords="1188,1595,1345,1637" />
+<area shape="rect" href="$df/dae/structNCSplineHandler.html" title="NCSplineHandler" alt="NCSplineHandler" coords="863,1616,988,1643" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="889,611,961,637" />
+</map>

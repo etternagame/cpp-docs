@@ -1,0 +1,12 @@
+<map id="RageSoundReader_ThreadedBuffer" name="RageSoundReader_ThreadedBuffer">
+<area shape="rect" href="$d7/dc4/classRageSoundReader__Filter.html" title="RageSoundReader_Filter" alt="RageSoundReader_Filter" coords="780,60,956,87" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="17,33,151,60" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; RageSoundReader \&gt;" alt="HiddenPtr\&lt; RageSoundReader \&gt;" coords="273,60,503,87" />
+<area shape="rect" href="$d2/dbc/classCircBuf.html" title="CircBuf\&lt; float \&gt;" alt="CircBuf\&lt; float \&gt;" coords="807,204,929,231" />
+<area shape="rect" href="$d2/dbc/classCircBuf.html" title="CircBuf\&lt; T \&gt;" alt="CircBuf\&lt; T \&gt;" coords="337,204,439,231" />
+<area shape="rect" href="$d2/d17/classRageEvent.html" title="RageEvent" alt="RageEvent" coords="827,268,909,295" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="344,267,432,293" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="23,289,145,332" />
+<area shape="rect" href="$dd/d20/classRageThread.html" title="Thread, mutex, semaphore, and event classes. " alt="RageThread" coords="343,329,433,356" />
+<area shape="rect" href="$d4/db6/structThreadSlot.html" title="ThreadSlot" alt="ThreadSlot" coords="44,393,124,420" />
+</map>

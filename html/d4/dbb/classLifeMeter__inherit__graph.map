@@ -1,0 +1,7 @@
+<map id="LifeMeter" name="LifeMeter">
+<area shape="rect" href="$d3/d96/classLifeMeterBar.html" title="The player&#39;s life represented as a bar. " alt="LifeMeterBar" coords="7,241,108,268" />
+<area shape="rect" href="$d7/d0d/classLifeMeterBattery.html" title="Battery life meter used in Oni mode. " alt="LifeMeterBattery" coords="132,241,257,268" />
+<area shape="rect" href="$d5/d4e/classLifeMeterTime.html" title="Battery life meter used in Survival. " alt="LifeMeterTime" coords="281,241,393,268" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="149,92,240,119" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="171,17,219,44" />
+</map>

@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="17,311,150,337" />
+<area shape="rect" href="$d2/dc2/classRageSoundReader__Chain.html" title="RageSoundReader_Chain" alt="RageSoundReader_Chain" coords="214,57,396,84" />
+<area shape="rect" href="$d3/d93/classRageSoundReader__FileReader.html" title="RageSoundReader_FileReader" alt="RageSoundReader_FileReader" coords="198,108,412,135" />
+<area shape="rect" href="$d7/dc4/classRageSoundReader__Filter.html" title="RageSoundReader_Filter" alt="RageSoundReader_Filter" coords="217,260,393,287" />
+<area shape="rect" href="$d9/df1/classRageSoundReader__Merge.html" title="Chain different sounds together. " alt="RageSoundReader_Merge" coords="213,311,397,337" />
+<area shape="rect" href="$df/dcd/classRageSoundReader__Preload.html" title="RageSoundReader_Preload" alt="RageSoundReader_Preload" coords="209,361,401,388" />
+<area shape="rect" href="$d9/dca/classRageSoundReader__Silence.html" title="RageSoundReader_Silence" alt="RageSoundReader_Silence" coords="212,412,398,439" />
+<area shape="rect" href="$dc/d66/classRageSoundReader__Split.html" title="RageSoundReader_Split" alt="RageSoundReader_Split" coords="220,463,390,489" />
+<area shape="rect" href="$d4/dbd/classRageSoundReader__MP3.html" title="RageSoundReader_MP3" alt="RageSoundReader_MP3" coords="500,7,673,33" />
+<area shape="rect" href="$d1/d10/classRageSoundReader__Vorbisfile.html" title="RageSoundReader_Vorbisfile" alt="RageSoundReader_Vorbisfile" coords="482,57,690,84" />
+<area shape="rect" href="$db/d3b/classRageSoundReader__WAV.html" title="RageSoundReader_WAV" alt="RageSoundReader_WAV" coords="494,108,678,135" />
+<area shape="rect" href="$d6/d1b/classRageSoundReader__Extend.html" title="RageSoundReader_Extend" alt="RageSoundReader_Extend" coords="492,159,681,185" />
+<area shape="rect" href="$d6/df2/classRageSoundReader__Pan.html" title="RageSoundReader_Pan" alt="RageSoundReader_Pan" coords="502,209,670,236" />
+<area shape="rect" href="$d0/d66/classRageSoundReader__PitchChange.html" title="RageSoundReader_PitchChange" alt="RageSoundReader_PitchChange" coords="474,260,698,287" />
+<area shape="rect" href="$d7/de5/classRageSoundReader__PostBuffering.html" title="RageSoundReader_PostBuffering" alt="RageSoundReader_PostBuffering" coords="468,311,705,337" />
+<area shape="rect" href="$d1/d04/classRageSoundReader__Resample__Good.html" title="This class changes the sampling rate of a sound. " alt="RageSoundReader_Resample_Good" coords="461,361,712,388" />
+<area shape="rect" href="$d5/db8/classRageSoundReader__SpeedChange.html" title="RageSoundReader_SpeedChange" alt="RageSoundReader_SpeedChange" coords="472,412,701,439" />
+<area shape="rect" href="$de/d38/classRageSoundReader__ThreadedBuffer.html" title="RageSoundReader_Threaded\lBuffer" alt="RageSoundReader_Threaded\lBuffer" coords="485,463,688,505" />
+</map>

@@ -1,0 +1,7 @@
+<map id="ScreenSaveSync" name="ScreenSaveSync">
+<area shape="rect" href="$df/dd4/classScreenPrompt.html" title="ScreenPrompt" alt="ScreenPrompt" coords="292,231,393,257" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="147,124,333,151" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="57,17,137,44" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="357,124,445,151" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="492,124,577,151" />
+</map>

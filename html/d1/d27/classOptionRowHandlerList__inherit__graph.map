@@ -1,0 +1,10 @@
+<map id="OptionRowHandlerList" name="OptionRowHandlerList">
+<area shape="rect" href="$d8/d19/classOptionRowHandlerListCharacters.html" title="OptionRowHandlerListCharacters" alt="OptionRowHandlerListCharacters" coords="423,7,657,33" />
+<area shape="rect" href="$dc/d4b/classOptionRowHandlerListDifficulties.html" title="OptionRowHandlerListDifficulties" alt="OptionRowHandlerListDifficulties" coords="420,57,660,84" />
+<area shape="rect" href="$dd/d7e/classOptionRowHandlerListGroups.html" title="OptionRowHandlerListGroups" alt="OptionRowHandlerListGroups" coords="433,108,647,135" />
+<area shape="rect" href="$db/d16/classOptionRowHandlerListNoteSkins.html" title="OptionRowHandlerListNote\lSkins" alt="OptionRowHandlerListNote\lSkins" coords="441,159,639,201" />
+<area shape="rect" href="$d2/d62/classOptionRowHandlerListSongsInCurrentSongGroup.html" title="OptionRowHandlerListSongs\lInCurrentSongGroup" alt="OptionRowHandlerListSongs\lInCurrentSongGroup" coords="439,225,641,268" />
+<area shape="rect" href="$d1/df3/classOptionRowHandlerListSteps.html" title="OptionRowHandlerListSteps" alt="OptionRowHandlerListSteps" coords="441,292,639,319" />
+<area shape="rect" href="$d6/d42/classOptionRowHandlerListStyles.html" title="OptionRowHandlerListStyles" alt="OptionRowHandlerListStyles" coords="439,343,641,369" />
+<area shape="rect" href="$d0/d4e/classOptionRowHandler.html" title="Shows PlayerOptions and SongOptions in icon form. " alt="OptionRowHandler" coords="17,167,159,193" />
+</map>

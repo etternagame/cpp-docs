@@ -1,0 +1,8 @@
+<map id="InputMapper" name="InputMapper">
+<area shape="rect" href="$dd/d27/classInputMappings.html" title="InputMappings" alt="InputMappings" coords="117,156,229,183" />
+<area shape="rect" href="$d2/dd2/structDeviceInput.html" title="DeviceInput" alt="DeviceInput" coords="7,25,97,52" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="197,17,320,60" />
+<area shape="rect" href="$d5/d88/structAutoMappings.html" title="AutoMappings" alt="AutoMappings" coords="281,156,391,183" />
+<area shape="rect" href="$d8/dd2/classInputScheme.html" title="InputScheme" alt="InputScheme" coords="288,247,384,273" />
+<area shape="rect" href="$df/d3a/structInputScheme_1_1GameButtonInfo.html" title="InputScheme::GameButtonInfo" alt="InputScheme::GameButtonInfo" coords="415,156,628,183" />
+</map>

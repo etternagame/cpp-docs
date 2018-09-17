@@ -1,0 +1,14 @@
+<map id="Actor" name="Actor">
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="771,44,904,71" />
+<area shape="rect" href="$d0/d1b/classIMessageSubscriber.html" title="IMessageSubscriber" alt="IMessageSubscriber" coords="349,7,488,33" />
+<area shape="rect" href="$d7/d3e/structRageVector2.html" title="RageVector2" alt="RageVector2" coords="789,319,885,345" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="371,427,467,453" />
+<area shape="rect" href="$db/db5/structActor_1_1TweenState.html" title="The present state for the Tween. " alt="Actor::TweenState" coords="773,549,901,576" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="776,816,899,859" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; LuaClass \&gt;" alt="HiddenPtr\&lt; LuaClass \&gt;" coords="755,883,920,909" />
+<area shape="rect" href="$d9/d3c/classLuaClass.html" title="LuaClass" alt="LuaClass" coords="384,880,453,907" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; T \&gt;" alt="HiddenPtr\&lt; T \&gt;" coords="361,944,476,971" />
+<area shape="rect" href="$df/def/classStepMania_1_1Rect.html" title="StepMania::Rect\&lt; float \&gt;" alt="StepMania::Rect\&lt; float \&gt;" coords="332,549,505,576" />
+<area shape="rect" href="$db/dc5/structRageVector4.html" title="RageVector4" alt="RageVector4" coords="371,613,467,640" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="379,724,459,751" />
+</map>

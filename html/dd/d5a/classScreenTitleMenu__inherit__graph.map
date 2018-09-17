@@ -1,0 +1,4 @@
+<map id="ScreenTitleMenu" name="ScreenTitleMenu">
+<area shape="rect" href="$d8/d57/classScreenSelectMaster.html" title="The master Screen for many children Screens. " alt="ScreenSelectMaster" coords="6,92,140,118" />
+<area shape="rect" href="$d8/db5/classScreenSelect.html" title="Base class for Style, Difficulty, and Mode selection screens. " alt="ScreenSelect" coords="29,17,117,44" />
+</map>

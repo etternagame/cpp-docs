@@ -1,0 +1,6 @@
+<map id="ScreenNetSelectBase" name="ScreenNetSelectBase">
+<area shape="rect" href="$d7/dab/classScreenNetRoom.html" title="ScreenNetRoom" alt="ScreenNetRoom" coords="7,241,124,268" />
+<area shape="rect" href="$d6/d5d/classScreenNetSelectMusic.html" title="ScreenNetSelectMusic" alt="ScreenNetSelectMusic" coords="148,241,303,268" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="52,92,239,119" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="119,17,172,44" />
+</map>

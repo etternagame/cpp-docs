@@ -1,0 +1,6 @@
+<map id="LocalizedStringImplThemeMetric" name="LocalizedStringImplThemeMetric">
+<area shape="rect" href="$d8/d44/classILocalizedStringImpl.html" title="ILocalizedStringImpl" alt="ILocalizedStringImpl" coords="7,185,153,212" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RString \&gt;" alt="ThemeMetric\&lt; RString \&gt;" coords="177,185,353,212" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="200,17,304,44" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="251,94,387,121" />
+</map>

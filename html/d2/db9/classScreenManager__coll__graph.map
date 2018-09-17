@@ -1,0 +1,9 @@
+<map id="ScreenManager" name="ScreenManager">
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="229,321,352,364" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="868,188,953,214" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="500,14,588,41" />
+<area shape="rect" href="$d3/d9d/classRageSoundBase.html" title="RageSoundBase" alt="RageSoundBase" coords="487,70,601,97" />
+<area shape="rect" href="$d7/d85/structRageSoundParams.html" title="The parameters to play a sound. " alt="RageSoundParams" coords="477,124,611,150" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="477,188,611,214" />
+<area shape="rect" href="$dd/dd0/classpos__map__queue.html" title="pos_map_queue" alt="pos_map_queue" coords="484,260,604,286" />
+</map>

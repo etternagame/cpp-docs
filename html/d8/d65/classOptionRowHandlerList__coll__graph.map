@@ -1,0 +1,12 @@
+<map id="OptionRowHandlerList" name="OptionRowHandlerList">
+<area shape="rect" href="$d0/d4e/classOptionRowHandler.html" title="Shows PlayerOptions and SongOptions in icon form. " alt="OptionRowHandler" coords="1031,116,1172,143" />
+<area shape="rect" href="$dc/d99/structOptionRowDefinition.html" title="Define the purpose of the OptionRow. " alt="OptionRowDefinition" coords="641,124,796,151" />
+<area shape="rect" href="$db/d41/classGameCommand.html" title="GameCommand" alt="GameCommand" coords="1348,525,1468,552" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="697,361,740,388" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="265,604,388,647" />
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="1080,449,1123,476" />
+<area shape="rect" href="$d7/ddd/classCharacter.html" title="A persona that defines attacks for use in battle. " alt="Character" coords="875,779,949,805" />
+<area shape="rect" href="$d2/dff/classStyle.html" title="Style" alt="Style" coords="1080,525,1123,552" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="1049,652,1153,679" />
+<area shape="rect" href="$dd/d68/classCommands.html" title="Commands" alt="Commands" coords="1059,716,1144,743" />
+</map>

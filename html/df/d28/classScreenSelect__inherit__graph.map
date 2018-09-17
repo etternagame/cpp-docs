@@ -1,0 +1,7 @@
+<map id="ScreenSelect" name="ScreenSelect">
+<area shape="rect" href="$d8/d57/classScreenSelectMaster.html" title="The master Screen for many children Screens. " alt="ScreenSelectMaster" coords="97,241,231,268" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="71,92,257,119" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="137,17,191,44" />
+<area shape="rect" href="$d7/ddc/classScreenSelectLanguage.html" title="ScreenSelectLanguage" alt="ScreenSelectLanguage" coords="7,316,161,343" />
+<area shape="rect" href="$dd/dd0/classScreenTitleMenu.html" title="ScreenTitleMenu" alt="ScreenTitleMenu" coords="185,316,305,343" />
+</map>

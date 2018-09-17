@@ -1,0 +1,4 @@
+<map id="Model" name="Model">
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="49,92,97,118" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="6,17,140,44" />
+</map>

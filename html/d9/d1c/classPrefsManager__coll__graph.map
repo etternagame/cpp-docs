@@ -1,0 +1,18 @@
+<map id="PrefsManager" name="PrefsManager">
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; BackgroundFit\lMode \&gt;" alt="Preference\&lt; BackgroundFit\lMode \&gt;" coords="919,433,1111,476" />
+<area shape="rect" href="$de/d5f/classIPreference.html" title="IPreference" alt="IPreference" coords="265,799,351,825" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; T \&gt;" alt="Preference\&lt; T \&gt;" coords="515,799,632,825" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; AttractSound\lFrequency \&gt;" alt="Preference\&lt; AttractSound\lFrequency \&gt;" coords="924,548,1105,591" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; AllowW1 \&gt;" alt="Preference\&lt; AllowW1 \&gt;" coords="929,671,1100,697" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; Maybe \&gt;" alt="Preference\&lt; Maybe \&gt;" coords="937,735,1092,761" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; StdString\l::CStdStr \&gt;" alt="Preference\&lt; StdString\l::CStdStr \&gt;" coords="937,152,1092,195" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; ImageCacheMode \&gt;" alt="Preference\&lt; ImageCacheMode \&gt;" coords="901,863,1128,889" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; float \&gt;" alt="Preference\&lt; float \&gt;" coords="945,1023,1084,1049" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; ShowDancingCharacters \&gt;" alt="Preference\&lt; ShowDancingCharacters \&gt;" coords="880,1207,1149,1233" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; MusicWheelUses\lSections \&gt;" alt="Preference\&lt; MusicWheelUses\lSections \&gt;" coords="911,1313,1119,1356" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; HighResolution\lTextures \&gt;" alt="Preference\&lt; HighResolution\lTextures \&gt;" coords="916,791,1113,833" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; int \&gt;" alt="Preference\&lt; int \&gt;" coords="952,1439,1077,1465" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; bool \&gt;" alt="Preference\&lt; bool \&gt;" coords="947,327,1083,353" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; TapNoteScore \&gt;" alt="Preference\&lt; TapNoteScore \&gt;" coords="915,1092,1115,1119" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,240,141,283" />
+</map>

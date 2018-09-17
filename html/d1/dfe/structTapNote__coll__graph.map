@@ -1,0 +1,4 @@
+<map id="TapNote" name="TapNote">
+<area shape="rect" href="$d8/de8/structHoldNoteResult.html" title="The result of holding (or letting go of) a hold note. " alt="HoldNoteResult" coords="7,17,121,44" />
+<area shape="rect" href="$dc/d6e/structTapNoteResult.html" title="The result of hitting (or missing) a tap note. " alt="TapNoteResult" coords="145,17,255,44" />
+</map>

@@ -1,0 +1,15 @@
+<map id="SoundEffectControl" name="SoundEffectControl">
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="712,244,845,270" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="701,294,856,321" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="28,96,132,122" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="306,349,442,376" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="692,348,865,390" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="700,521,857,548" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,300,141,342" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="28,544,132,570" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="742,754,814,781" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="737,1042,820,1069" />
+<area shape="rect" href="$de/d39/classSongPosition.html" title="SongPosition" alt="SongPosition" coords="328,1010,421,1037" />
+<area shape="rect" href="$d9/d2e/classSampleHistory.html" title="Store a trailing history of values, and retrieve values with interpolation. " alt="SampleHistory" coords="321,1074,428,1101" />
+<area shape="rect" href="$d6/d78/classModsGroup.html" title="ModsGroup\&lt; PlayerOptions \&gt;" alt="ModsGroup\&lt; PlayerOptions \&gt;" coords="269,1138,480,1165" />
+</map>

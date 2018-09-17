@@ -1,0 +1,15 @@
+<map id="NetworkSyncManager" name="NetworkSyncManager">
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="1491,275,1533,301" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Steps \&gt;" alt="CachedObject\&lt; Steps \&gt;" coords="1745,275,1908,301" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="1089,595,1132,621" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="691,393,779,420" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="256,769,379,812" />
+<area shape="rect" href="$d1/df8/classNetProtocol.html" title="NetProtocol" alt="NetProtocol" coords="1067,1080,1155,1107" />
+<area shape="rect" href="$db/dd8/classEzSockets.html" title="EzSockets" alt="EzSockets" coords="1073,1131,1148,1157" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; NoteData \&gt;" alt="HiddenPtr\&lt; NoteData \&gt;" coords="1027,71,1195,97" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="1063,131,1159,157" />
+<area shape="rect" href="$dc/d66/classETTProtocol.html" title="ETTProtocol" alt="ETTProtocol" coords="1465,1351,1559,1377" />
+<area shape="rect" href="$dc/d5a/classChat.html" title="Chat" alt="Chat" coords="1492,1080,1532,1107" />
+<area shape="rect" href="$da/dd3/classSMOProtocol.html" title="SMOProtocol" alt="SMOProtocol" coords="1463,1027,1561,1053" />
+<area shape="rect" href="$d5/d06/classPacketFunctions.html" title="PacketFunctions" alt="PacketFunctions" coords="1052,1209,1169,1236" />
+</map>

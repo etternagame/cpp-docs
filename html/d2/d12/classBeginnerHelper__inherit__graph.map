@@ -1,0 +1,4 @@
+<map id="BeginnerHelper" name="BeginnerHelper">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="19,92,109,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="40,17,88,44" />
+</map>

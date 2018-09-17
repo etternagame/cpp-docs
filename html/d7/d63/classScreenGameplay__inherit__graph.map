@@ -1,0 +1,8 @@
+<map id="ScreenGameplay" name="ScreenGameplay">
+<area shape="rect" href="$d5/db4/classScreenGameplayNormal.html" title="ScreenGameplayNormal" alt="ScreenGameplayNormal" coords="108,241,281,268" />
+<area shape="rect" href="$d6/db9/classScreenGameplayShared.html" title="ScreenGameplayShared" alt="ScreenGameplayShared" coords="305,241,471,268" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="197,92,384,119" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="264,17,317,44" />
+<area shape="rect" href="$d4/d2f/classScreenGameplayLesson.html" title="Shows some explanation pages, then allows 3 tries to pass a song. " alt="ScreenGameplayLesson" coords="7,316,172,343" />
+<area shape="rect" href="$d8/de1/classScreenGameplaySyncMachine.html" title="A gameplay screen used for syncing the machine&#39;s timing. " alt="ScreenGameplaySyncMachine" coords="196,316,407,343" />
+</map>

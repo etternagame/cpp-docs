@@ -1,0 +1,6 @@
+<map id="OptionRowHandlerConfig" name="OptionRowHandlerConfig">
+<area shape="rect" href="$d0/d4e/classOptionRowHandler.html" title="Shows PlayerOptions and SongOptions in icon form. " alt="OptionRowHandler" coords="241,231,382,257" />
+<area shape="rect" href="$dc/d99/structOptionRowDefinition.html" title="Define the purpose of the OptionRow. " alt="OptionRowDefinition" coords="234,140,389,167" />
+<area shape="rect" href="$d9/da2/structConfOption.html" title="ConfOption" alt="ConfOption" coords="413,140,501,167" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="362,17,485,60" />
+</map>

@@ -1,0 +1,6 @@
+<map id="SongID" name="SongID">
+<area shape="rect" href="$d6/d5e/classCachedObjectPointer.html" title="CachedObjectPointer\l\&lt; Song \&gt;" alt="CachedObjectPointer\l\&lt; Song \&gt;" coords="75,375,224,417" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="79,284,121,311" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="7,17,129,60" />
+<area shape="rect" href="$d6/d5e/classCachedObjectPointer.html" title="CachedObjectPointer\&lt; T \&gt;" alt="CachedObjectPointer\&lt; T \&gt;" coords="147,284,333,311" />
+</map>

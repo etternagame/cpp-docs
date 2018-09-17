@@ -1,0 +1,6 @@
+<map id="Download" name="Download">
+<area shape="rect" href="$d3/d15/classProgressData.html" title="ProgressData" alt="ProgressData" coords="7,135,103,161" />
+<area shape="rect" href="$de/d7a/classDownloadablePack.html" title="DownloadablePack" alt="DownloadablePack" coords="300,135,436,161" />
+<area shape="rect" href="$d3/d84/classRageFileWrapper.html" title="RageFileWrapper" alt="RageFileWrapper" coords="460,135,585,161" />
+<area shape="rect" href="$dd/d5e/classRageFile.html" title="High-level file access. " alt="RageFile" coords="489,17,556,44" />
+</map>

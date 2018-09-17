@@ -1,0 +1,4 @@
+<map id="LifeMeterBattery" name="LifeMeterBattery">
+<area shape="rect" href="$da/d11/classLifeMeter.html" title="The player&#39;s life. " alt="LifeMeter" coords="30,92,108,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="24,17,114,44" />
+</map>

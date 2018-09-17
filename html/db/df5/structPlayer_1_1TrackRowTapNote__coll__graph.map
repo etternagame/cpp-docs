@@ -1,0 +1,5 @@
+<map id="Player::TrackRowTapNote" name="Player::TrackRowTapNote">
+<area shape="rect" href="$da/d27/structTapNote.html" title="The various properties of a tap note. " alt="TapNote" coords="99,108,165,134" />
+<area shape="rect" href="$d8/de8/structHoldNoteResult.html" title="The result of holding (or letting go of) a hold note. " alt="HoldNoteResult" coords="7,17,121,44" />
+<area shape="rect" href="$dc/d6e/structTapNoteResult.html" title="The result of hitting (or missing) a tap note. " alt="TapNoteResult" coords="145,17,255,44" />
+</map>

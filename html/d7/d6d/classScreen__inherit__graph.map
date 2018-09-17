@@ -1,0 +1,34 @@
+<map id="Screen" name="Screen">
+<area shape="rect" href="$d6/dd2/classScreenDebugOverlay.html" title="ScreenDebugOverlay" alt="ScreenDebugOverlay" coords="372,32,521,58" />
+<area shape="rect" href="$de/d75/classScreenExit.html" title="ScreenExit" alt="ScreenExit" coords="407,82,487,109" />
+<area shape="rect" href="$de/d2b/classScreenInstallOverlay.html" title="Package installation processing and messaging. " alt="ScreenInstallOverlay" coords="375,133,519,160" />
+<area shape="rect" href="$db/dfe/classScreenReloadSongs.html" title="ScreenReloadSongs" alt="ScreenReloadSongs" coords="379,184,515,210" />
+<area shape="rect" href="$dd/d39/classScreenSandbox.html" title="ScreenSandbox" alt="ScreenSandbox" coords="392,234,501,261" />
+<area shape="rect" href="$d0/d3b/classScreenStatsOverlay.html" title="ScreenStatsOverlay" alt="ScreenStatsOverlay" coords="379,285,515,312" />
+<area shape="rect" href="$dd/da1/classScreenSyncOverlay.html" title="Credits and statistics drawn on top of everything else. " alt="ScreenSyncOverlay" coords="377,336,516,362" />
+<area shape="rect" href="$de/dfc/classScreenSystemLayer.html" title="ScreenSystemLayer" alt="ScreenSystemLayer" coords="377,386,516,413" />
+<area shape="rect" href="$d8/d5e/classScreenTestSound.html" title="ScreenTestSound" alt="ScreenTestSound" coords="387,437,507,464" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="353,488,540,514" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="113,260,204,286" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="17,260,65,286" />
+<area shape="rect" href="$d8/d7f/classScreenAttract.html" title="ScreenAttract" alt="ScreenAttract" coords="655,6,753,33" />
+<area shape="rect" href="$d8/d78/classScreenEvaluation.html" title="Shows the player their score after gameplay has ended. " alt="ScreenEvaluation" coords="643,57,765,84" />
+<area shape="rect" href="$d8/d0e/classScreenGameplay.html" title="The music plays, the notes scroll, and the Player is pressing buttons. " alt="ScreenGameplay" coords="644,108,764,134" />
+<area shape="rect" href="$d8/d33/classScreenInstructions.html" title="ScreenInstructions" alt="ScreenInstructions" coords="640,158,768,185" />
+<area shape="rect" href="$dc/d6e/classScreenMapControllers.html" title="ScreenMapControllers" alt="ScreenMapControllers" coords="627,209,781,236" />
+<area shape="rect" href="$dc/d99/classScreenNetSelectBase.html" title="ScreenNetSelectBase" alt="ScreenNetSelectBase" coords="632,260,776,286" />
+<area shape="rect" href="$df/d91/classScreenOptions.html" title="A grid of options; the selected option is drawn with a highlight rectangle. " alt="ScreenOptions" coords="652,310,756,337" />
+<area shape="rect" href="$db/d0f/classScreenPackages.html" title="ScreenPackages" alt="ScreenPackages" coords="648,361,760,388" />
+<area shape="rect" href="$dd/d51/classScreenProfileLoad.html" title="ScreenProfileLoad" alt="ScreenProfileLoad" coords="639,412,769,438" />
+<area shape="rect" href="$d2/d99/classScreenProfileSave.html" title="ScreenProfileSave" alt="ScreenProfileSave" coords="640,462,768,489" />
+<area shape="rect" href="$df/dd4/classScreenPrompt.html" title="ScreenPrompt" alt="ScreenPrompt" coords="653,513,755,540" />
+<area shape="rect" href="$d8/db5/classScreenSelect.html" title="Base class for Style, Difficulty, and Mode selection screens. " alt="ScreenSelect" coords="660,564,748,590" />
+<area shape="rect" href="$d0/df3/classScreenSelectMusic.html" title="ScreenSelectMusic" alt="ScreenSelectMusic" coords="640,614,768,641" />
+<area shape="rect" href="$df/d2e/classScreenSelectProfile.html" title="ScreenSelectProfile" alt="ScreenSelectProfile" coords="637,665,771,692" />
+<area shape="rect" href="$d8/d70/classScreenSetTime.html" title="ScreenSetTime" alt="ScreenSetTime" coords="651,716,757,742" />
+<area shape="rect" href="$da/d05/classScreenSplash.html" title="ScreenSplash" alt="ScreenSplash" coords="657,766,751,793" />
+<area shape="rect" href="$dc/d84/classScreenTestInput.html" title="ScreenTestInput" alt="ScreenTestInput" coords="647,817,761,844" />
+<area shape="rect" href="$d1/dac/classScreenTextEntry.html" title="Displays a text entry box over the top of another screen. " alt="ScreenTextEntry" coords="644,868,764,894" />
+<area shape="rect" href="$d7/d0f/classScreenWithMenuElementsBasic.html" title="ScreenWithMenuElementsBasic" alt="ScreenWithMenuElementsBasic" coords="593,918,815,945" />
+<area shape="rect" href="$d3/dc6/classScreenWithMenuElementsSimple.html" title="ScreenWithMenuElementsSimple" alt="ScreenWithMenuElementsSimple" coords="588,969,820,996" />
+</map>

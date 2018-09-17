@@ -1,0 +1,4 @@
+<map id="RollingNumbers" name="RollingNumbers">
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="23,92,111,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="43,17,91,44" />
+</map>

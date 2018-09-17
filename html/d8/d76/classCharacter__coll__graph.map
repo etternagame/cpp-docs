@@ -1,0 +1,7 @@
+<map id="Character" name="Character">
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="27,108,149,150" />
+<area shape="rect" href="$d0/d22/classRageTexturePreloader.html" title="Load the textures in advance for using them later. " alt="RageTexturePreloader" coords="192,116,349,142" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; LuaReference \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; LuaReference \&gt;" coords="373,108,531,150" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="392,17,496,44" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\&lt; T \&gt;" alt="AutoPtrCopyOnWrite\&lt; T \&gt;" coords="520,17,715,44" />
+</map>

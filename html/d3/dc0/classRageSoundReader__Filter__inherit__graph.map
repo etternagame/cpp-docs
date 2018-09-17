@@ -1,0 +1,10 @@
+<map id="RageSoundReader_Filter" name="RageSoundReader_Filter">
+<area shape="rect" href="$d6/d1b/classRageSoundReader__Extend.html" title="RageSoundReader_Extend" alt="RageSoundReader_Extend" coords="455,7,644,33" />
+<area shape="rect" href="$d6/df2/classRageSoundReader__Pan.html" title="RageSoundReader_Pan" alt="RageSoundReader_Pan" coords="465,57,633,84" />
+<area shape="rect" href="$d0/d66/classRageSoundReader__PitchChange.html" title="RageSoundReader_PitchChange" alt="RageSoundReader_PitchChange" coords="437,108,661,135" />
+<area shape="rect" href="$d7/de5/classRageSoundReader__PostBuffering.html" title="RageSoundReader_PostBuffering" alt="RageSoundReader_PostBuffering" coords="431,159,668,185" />
+<area shape="rect" href="$d1/d04/classRageSoundReader__Resample__Good.html" title="This class changes the sampling rate of a sound. " alt="RageSoundReader_Resample_Good" coords="424,209,675,236" />
+<area shape="rect" href="$d5/db8/classRageSoundReader__SpeedChange.html" title="RageSoundReader_SpeedChange" alt="RageSoundReader_SpeedChange" coords="435,260,664,287" />
+<area shape="rect" href="$de/d38/classRageSoundReader__ThreadedBuffer.html" title="RageSoundReader_Threaded\lBuffer" alt="RageSoundReader_Threaded\lBuffer" coords="448,311,651,353" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="17,159,151,185" />
+</map>

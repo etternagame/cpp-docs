@@ -1,0 +1,4 @@
+<map id="ScreenNetSelectMusic" name="ScreenNetSelectMusic">
+<area shape="rect" href="$dc/d99/classScreenNetSelectBase.html" title="ScreenNetSelectBase" alt="ScreenNetSelectBase" coords="28,92,172,118" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="7,17,193,44" />
+</map>

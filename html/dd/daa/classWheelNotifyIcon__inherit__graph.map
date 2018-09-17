@@ -1,0 +1,4 @@
+<map id="WheelNotifyIcon" name="WheelNotifyIcon">
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="45,92,93,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="45,17,93,44" />
+</map>

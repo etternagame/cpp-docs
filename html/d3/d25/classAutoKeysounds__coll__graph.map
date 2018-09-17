@@ -1,0 +1,10 @@
+<map id="AutoKeysounds" name="AutoKeysounds">
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="305,68,439,94" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="697,273,783,300" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="704,590,776,617" />
+<area shape="rect" href="$d3/d9d/classRageSoundBase.html" title="RageSoundBase" alt="RageSoundBase" coords="315,153,429,180" />
+<area shape="rect" href="$d7/d85/structRageSoundParams.html" title="The parameters to play a sound. " alt="RageSoundParams" coords="305,204,439,230" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,292,141,334" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="328,334,416,361" />
+<area shape="rect" href="$dd/dd0/classpos__map__queue.html" title="pos_map_queue" alt="pos_map_queue" coords="312,406,432,433" />
+</map>

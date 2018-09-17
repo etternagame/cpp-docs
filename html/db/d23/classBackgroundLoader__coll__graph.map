@@ -1,0 +1,7 @@
+<map id="BackgroundLoader" name="BackgroundLoader">
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="229,217,352,260" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="576,260,664,287" />
+<area shape="rect" href="$df/d74/classRageSemaphore.html" title="RageSemaphore" alt="RageSemaphore" coords="561,316,679,343" />
+<area shape="rect" href="$dd/d20/classRageThread.html" title="Thread, mutex, semaphore, and event classes. " alt="RageThread" coords="575,137,665,164" />
+<area shape="rect" href="$d4/db6/structThreadSlot.html" title="ThreadSlot" alt="ThreadSlot" coords="251,73,331,100" />
+</map>

@@ -1,0 +1,11 @@
+<map id="ActorFrame" name="ActorFrame">
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="672,463,720,489" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="237,441,370,468" />
+<area shape="rect" href="$d7/d3e/structRageVector2.html" title="RageVector2" alt="RageVector2" coords="256,497,352,524" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="17,799,113,825" />
+<area shape="rect" href="$db/db5/structActor_1_1TweenState.html" title="The present state for the Tween. " alt="Actor::TweenState" coords="240,593,368,620" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="242,647,365,689" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; LuaClass \&gt;" alt="HiddenPtr\&lt; LuaClass \&gt;" coords="221,713,386,740" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="25,313,105,340" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="644,929,748,956" />
+</map>

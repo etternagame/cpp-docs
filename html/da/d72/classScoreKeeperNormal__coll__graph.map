@@ -1,0 +1,12 @@
+<map id="ScoreKeeperNormal" name="ScoreKeeperNormal">
+<area shape="rect" href="$d6/de4/classScoreKeeper.html" title="Abstract class to handle scorekeeping, stat-taking, etc. " alt="ScoreKeeper" coords="712,73,802,100" />
+<area shape="rect" href="$d0/d24/classPlayerStageStats.html" title="Contains statistics for one stage of play - either one song, or a whole course. " alt="PlayerStageStats" coords="328,75,445,101" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="345,9,428,36" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; TapNoteScore \&gt;" alt="ThemeMetric\&lt; TapNoteScore \&gt;" coords="648,383,866,409" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="28,277,132,304" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="318,515,454,541" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="680,255,834,281" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; LuaReference \&gt;" alt="ThemeMetric\&lt; LuaReference \&gt;" coords="646,695,868,721" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,717,141,760" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="28,481,132,508" />
+</map>

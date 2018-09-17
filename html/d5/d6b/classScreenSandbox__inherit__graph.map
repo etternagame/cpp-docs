@@ -1,0 +1,4 @@
+<map id="ScreenSandbox" name="ScreenSandbox">
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="34,92,88,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="16,17,106,44" />
+</map>

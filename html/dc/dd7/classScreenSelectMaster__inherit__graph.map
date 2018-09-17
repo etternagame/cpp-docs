@@ -1,0 +1,6 @@
+<map id="ScreenSelectMaster" name="ScreenSelectMaster">
+<area shape="rect" href="$d7/ddc/classScreenSelectLanguage.html" title="ScreenSelectLanguage" alt="ScreenSelectLanguage" coords="7,241,161,268" />
+<area shape="rect" href="$dd/dd0/classScreenTitleMenu.html" title="ScreenTitleMenu" alt="ScreenTitleMenu" coords="185,241,305,268" />
+<area shape="rect" href="$d8/db5/classScreenSelect.html" title="Base class for Style, Difficulty, and Mode selection screens. " alt="ScreenSelect" coords="120,92,208,119" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="71,17,257,44" />
+</map>

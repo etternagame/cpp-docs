@@ -1,0 +1,4 @@
+<map id="MusicWheelItem" name="MusicWheelItem">
+<area shape="rect" href="$dc/dba/classWheelItemBase.html" title="An item on the wheel. " alt="WheelItemBase" coords="12,92,124,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="23,17,113,44" />
+</map>

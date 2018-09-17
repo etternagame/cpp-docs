@@ -1,0 +1,4 @@
+<map id="ScreenTextEntryVisual" name="ScreenTextEntryVisual">
+<area shape="rect" href="$d1/dac/classScreenTextEntry.html" title="Displays a text entry box over the top of another screen. " alt="ScreenTextEntry" coords="40,92,160,118" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="7,17,193,44" />
+</map>

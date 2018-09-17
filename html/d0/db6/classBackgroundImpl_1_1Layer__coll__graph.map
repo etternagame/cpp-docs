@@ -1,0 +1,10 @@
+<map id="BackgroundImpl::Layer" name="BackgroundImpl::Layer">
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="853,436,901,463" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="403,11,536,37" />
+<area shape="rect" href="$d7/d3e/structRageVector2.html" title="RageVector2" alt="RageVector2" coords="421,71,517,97" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="17,199,113,225" />
+<area shape="rect" href="$db/db5/structActor_1_1TweenState.html" title="The present state for the Tween. " alt="Actor::TweenState" coords="405,265,533,292" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="408,444,531,487" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; LuaClass \&gt;" alt="HiddenPtr\&lt; LuaClass \&gt;" coords="387,511,552,537" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="25,352,105,379" />
+</map>

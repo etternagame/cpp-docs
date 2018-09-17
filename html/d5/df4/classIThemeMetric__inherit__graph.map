@@ -1,0 +1,23 @@
+<map id="IThemeMetric" name="IThemeMetric">
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="188,601,324,628" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RankingType \&gt;" alt="ThemeMetric\&lt; RankingType \&gt;" coords="607,168,825,195" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; SampleMusic\lPreviewMode \&gt;" alt="ThemeMetric\&lt; SampleMusic\lPreviewMode \&gt;" coords="616,477,816,520" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RString \&gt;" alt="ThemeMetric\&lt; RString \&gt;" coords="628,393,804,420" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; TapNoteScore \&gt;" alt="ThemeMetric\&lt; TapNoteScore \&gt;" coords="607,59,825,85" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="637,280,795,307" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="644,1155,788,1181" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="629,953,803,996" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; LuaReference \&gt;" alt="ThemeMetric\&lt; LuaReference \&gt;" coords="605,889,827,916" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="639,1048,793,1075" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RageColor \&gt;" alt="ThemeMetric\&lt; RageColor \&gt;" coords="617,645,815,672" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; AutoPtrCopy\lOnWrite \&gt;" alt="ThemeMetric\&lt; AutoPtrCopy\lOnWrite \&gt;" coords="615,756,817,799" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; T \&gt;" alt="ThemeMetric1D\&lt; T \&gt;" coords="180,1436,332,1463" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; float \&gt;" alt="ThemeMetric1D\&lt; float \&gt;" coords="629,1559,803,1585" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric1D\&lt; StdString\l::CStdStr \&gt;" coords="621,1400,811,1443" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; RageColor \&gt;" alt="ThemeMetric1D\&lt; RageColor \&gt;" coords="609,1295,823,1321" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; AutoPtrCopy\lOnWrite \&gt;" alt="ThemeMetric1D\&lt; AutoPtrCopy\lOnWrite \&gt;" coords="607,1639,825,1681" />
+<area shape="rect" href="$de/d5d/classThemeMetric2D.html" title="ThemeMetric2D\&lt; T \&gt;" alt="ThemeMetric2D\&lt; T \&gt;" coords="179,1727,333,1753" />
+<area shape="rect" href="$d3/d1b/classThemeMetricMap.html" title="ThemeMetricMap\&lt; T \&gt;" alt="ThemeMetricMap\&lt; T \&gt;" coords="172,1831,340,1857" />
+<area shape="rect" href="$d3/d1b/classThemeMetricMap.html" title="ThemeMetricMap\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetricMap\&lt; StdString\l::CStdStr \&gt;" coords="615,1796,817,1839" />
+<area shape="rect" href="$d3/d1b/classThemeMetricMap.html" title="ThemeMetricMap\&lt; RageColor \&gt;" alt="ThemeMetricMap\&lt; RageColor \&gt;" coords="603,1925,829,1952" />
+</map>

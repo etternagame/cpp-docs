@@ -1,0 +1,11 @@
+<map id="GrooveRadar" name="GrooveRadar">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="670,375,761,401" />
+<area shape="rect" href="$df/d98/classGrooveRadar_1_1GrooveRadarValueMap.html" title="The companion ValueMap to the GrooveRadar. " alt="GrooveRadar::GrooveRadar\lValueMap" coords="893,313,1085,356" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="392,307,440,333" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="692,87,740,113" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="786,188,866,215" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="30,379,126,405" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="38,193,118,220" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="364,593,468,620" />
+<area shape="rect" href="$dc/d20/classRageTexture.html" title="RageTexture" alt="RageTexture" coords="368,9,464,36" />
+</map>

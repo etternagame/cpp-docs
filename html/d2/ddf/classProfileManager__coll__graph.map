@@ -1,0 +1,12 @@
+<map id="ProfileManager" name="ProfileManager">
+<area shape="rect" href="$d5/d4b/classPreference1D.html" title="Preference1D\&lt; StdString\l::CStdStr \&gt;" alt="Preference1D\&lt; StdString\l::CStdStr \&gt;" coords="720,59,891,101" />
+<area shape="rect" href="$d5/d4b/classPreference1D.html" title="Preference1D\&lt; T \&gt;" alt="Preference1D\&lt; T \&gt;" coords="345,71,479,97" />
+<area shape="rect" href="$dd/d34/classProfile.html" title="Player data that persists between sessions. " alt="Profile" coords="779,508,832,535" />
+<area shape="rect" href="$d5/daa/classDBProfile.html" title="DBProfile" alt="DBProfile" coords="1140,540,1217,567" />
+<area shape="rect" href="$d7/d03/classXMLProfile.html" title="XMLProfile" alt="XMLProfile" coords="1133,380,1224,407" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="35,269,157,312" />
+<area shape="rect" href="$d0/d5e/classSongID.html" title="SongID" alt="SongID" coords="383,405,441,432" />
+<area shape="rect" href="$d1/d0a/structDateTime.html" title="A standard way of determining the date and the time. " alt="DateTime" coords="59,645,133,672" />
+<area shape="rect" href="$d9/df0/structHighScoreList.html" title="The list of high scores. " alt="HighScoreList" coords="361,761,463,788" />
+<area shape="rect" href="$d5/db4/classLuaTable.html" title="LuaTable" alt="LuaTable" coords="376,648,448,675" />
+</map>

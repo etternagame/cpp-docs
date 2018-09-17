@@ -1,0 +1,19 @@
+<map id="ScreenPackages" name="ScreenPackages">
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="1601,519,1788,545" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="1221,244,1275,271" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="723,372,877,399" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,735,141,777" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="721,473,879,500" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="1161,177,1335,220" />
+<area shape="rect" href="$de/dfc/classTransition.html" title="Transition" alt="Transition" coords="1209,913,1287,940" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="365,1045,413,1072" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="756,837,844,864" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="728,684,872,711" />
+<area shape="rect" href="$db/dd8/classEzSockets.html" title="EzSockets" alt="EzSockets" coords="352,1247,427,1273" />
+<area shape="rect" href="$dd/d5e/classRageFile.html" title="High-level file access. " alt="RageFile" coords="356,1463,423,1489" />
+<area shape="rect" href="$d2/d3c/classMenuTimer.html" title="MenuTimer" alt="MenuTimer" coords="1204,623,1292,649" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="760,1028,840,1055" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="776,1373,824,1400" />
+<area shape="rect" href="$dc/d20/classRageTexture.html" title="RageTexture" alt="RageTexture" coords="341,1343,437,1369" />
+<area shape="rect" href="$dd/d75/classRageFileBasic.html" title="RageFileBasic" alt="RageFileBasic" coords="29,1441,131,1468" />
+</map>

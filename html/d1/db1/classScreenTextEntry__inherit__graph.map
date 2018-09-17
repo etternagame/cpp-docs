@@ -1,0 +1,5 @@
+<map id="ScreenTextEntry" name="ScreenTextEntry">
+<area shape="rect" href="$d3/d6b/classScreenTextEntryVisual.html" title="Displays a text entry box and keyboard over the top of another screen. " alt="ScreenTextEntryVisual" coords="19,241,181,268" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="7,92,193,119" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="73,17,127,44" />
+</map>

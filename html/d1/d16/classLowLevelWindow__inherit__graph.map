@@ -1,0 +1,5 @@
+<map id="LowLevelWindow" name="LowLevelWindow">
+<area shape="rect" href="$d5/d7c/classLowLevelWindow__MacOSX.html" title="LowLevelWindow_MacOSX" alt="LowLevelWindow_MacOSX" coords="6,92,212,119" />
+<area shape="rect" href="$d2/d5f/classLowLevelWindow__Win32.html" title="LowLevelWindow_Win32" alt="LowLevelWindow_Win32" coords="236,92,422,119" />
+<area shape="rect" href="$db/df8/classLowLevelWindow__X11.html" title="LowLevelWindow_X11" alt="LowLevelWindow_X11" coords="446,92,612,119" />
+</map>

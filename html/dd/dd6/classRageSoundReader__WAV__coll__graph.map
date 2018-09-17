@@ -1,0 +1,9 @@
+<map id="RageSoundReader_WAV" name="RageSoundReader_WAV">
+<area shape="rect" href="$d3/d93/classRageSoundReader__FileReader.html" title="RageSoundReader_FileReader" alt="RageSoundReader_FileReader" coords="174,215,388,241" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="6,116,140,143" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="385,108,508,151" />
+<area shape="rect" href="$d7/dcb/structWavReader.html" title="WavReader" alt="WavReader" coords="512,215,600,241" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; RageFileBasic \&gt;" alt="HiddenPtr\&lt; RageFileBasic \&gt;" coords="164,116,361,143" />
+<area shape="rect" href="$dd/d75/classRageFileBasic.html" title="RageFileBasic" alt="RageFileBasic" coords="409,17,510,44" />
+<area shape="rect" href="$d1/d7d/structRageSoundReader__WAV_1_1WavData.html" title="RageSoundReader_WAV\l::WavData" alt="RageSoundReader_WAV\l::WavData" coords="641,108,825,151" />
+</map>

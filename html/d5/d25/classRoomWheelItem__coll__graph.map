@@ -1,0 +1,12 @@
+<map id="RoomWheelItem" name="RoomWheelItem">
+<area shape="rect" href="$dc/dba/classWheelItemBase.html" title="An item on the wheel. " alt="WheelItemBase" coords="1005,152,1117,178" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="776,152,867,178" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="432,278,480,305" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="777,584,865,610" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="893,293,973,320" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,550,141,593" />
+<area shape="rect" href="$d0/d36/structWheelItemBaseData.html" title="WheelItemBaseData" alt="WheelItemBaseData" coords="384,60,528,86" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="436,488,476,514" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="40,204,120,230" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="349,408,563,434" />
+</map>

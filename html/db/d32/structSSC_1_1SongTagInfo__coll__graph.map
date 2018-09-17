@@ -1,0 +1,10 @@
+<map id="SSC::SongTagInfo" name="SSC::SongTagInfo">
+<area shape="rect" href="$d8/d5b/structSSCLoader.html" title="The SSCLoader handles all of the parsing needed for .ssc files. " alt="SSCLoader" coords="658,25,741,52" />
+<area shape="rect" href="$d8/d96/structSMLoader.html" title="Reads a Song from an .SM file. " alt="SMLoader" coords="302,25,380,52" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,277,141,320" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="678,375,721,401" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="297,615,385,641" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Song \&gt;" alt="CachedObject\&lt; Song \&gt;" coords="926,375,1089,401" />
+<area shape="rect" href="$d0/d3c/structMsdFile_1_1value__t.html" title="The list of params found in the files. " alt="MsdFile::value_t" coords="642,177,757,204" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" coords="250,188,432,231" />
+</map>

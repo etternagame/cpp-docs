@@ -1,0 +1,6 @@
+<map id="ScreenAttract" name="ScreenAttract">
+<area shape="rect" href="$d7/dfb/classScreenHowToPlay.html" title="ScreenHowToPlay" alt="ScreenHowToPlay" coords="7,241,137,268" />
+<area shape="rect" href="$d7/d10/classScreenRanking.html" title="ScreenRanking" alt="ScreenRanking" coords="161,241,271,268" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="51,92,237,119" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="117,17,171,44" />
+</map>

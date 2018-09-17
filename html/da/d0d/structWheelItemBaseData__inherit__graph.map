@@ -1,0 +1,4 @@
+<map id="WheelItemBaseData" name="WheelItemBaseData">
+<area shape="rect" href="$dc/da2/structMusicWheelItemData.html" title="MusicWheelItemData" alt="MusicWheelItemData" coords="6,92,161,119" />
+<area shape="rect" href="$d0/dca/structRoomWheelItemData.html" title="RoomWheelItemData" alt="RoomWheelItemData" coords="185,92,340,119" />
+</map>

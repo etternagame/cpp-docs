@@ -1,0 +1,10 @@
+<map id="MovieTexture_FFMpeg" name="MovieTexture_FFMpeg">
+<area shape="rect" href="$dc/dff/classMovieTexture__Generic.html" title="MovieTexture_Generic" alt="MovieTexture_Generic" coords="613,185,776,212" />
+<area shape="rect" href="$d1/d31/classRageMovieTexture.html" title="RageMovieTexture" alt="RageMovieTexture" coords="275,71,411,97" />
+<area shape="rect" href="$dc/d20/classRageTexture.html" title="RageTexture" alt="RageTexture" coords="17,96,113,123" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="319,123,367,149" />
+<area shape="rect" href="$d0/dca/classRageTextureRenderTarget.html" title="RageTextureRenderTarget" alt="RageTextureRenderTarget" coords="249,185,436,212" />
+<area shape="rect" href="$d6/d9b/structRageSurface.html" title="RageSurface" alt="RageSurface" coords="296,249,389,276" />
+<area shape="rect" href="$da/db1/classMovieDecoder.html" title="MovieDecoder" alt="MovieDecoder" coords="289,313,396,340" />
+<area shape="rect" href="$dc/d67/structRageTextureLock.html" title="RageTextureLock" alt="RageTextureLock" coords="279,377,407,404" />
+</map>

@@ -1,0 +1,10 @@
+<map id="RageSound" name="RageSound">
+<area shape="rect" href="$d3/d9d/classRageSoundBase.html" title="RageSoundBase" alt="RageSoundBase" coords="505,6,620,33" />
+<area shape="rect" href="$d7/d85/structRageSoundParams.html" title="The parameters to play a sound. " alt="RageSoundParams" coords="496,60,629,86" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="249,60,332,86" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="496,116,629,142" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="229,208,352,250" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="519,246,607,273" />
+<area shape="rect" href="$dd/dd0/classpos__map__queue.html" title="pos_map_queue" alt="pos_map_queue" coords="503,318,623,345" />
+<area shape="rect" href="$d3/d47/structpos__map__impl.html" title="pos_map_impl" alt="pos_map_impl" coords="236,318,345,345" />
+</map>

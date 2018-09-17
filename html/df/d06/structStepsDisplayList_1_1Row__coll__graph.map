@@ -1,0 +1,9 @@
+<map id="StepsDisplayList::Row" name="StepsDisplayList::Row">
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="1160,519,1203,545" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Steps \&gt;" alt="CachedObject\&lt; Steps \&gt;" coords="1372,551,1535,577" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="841,397,884,424" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="443,428,531,455" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,317,141,360" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; NoteData \&gt;" alt="HiddenPtr\&lt; NoteData \&gt;" coords="779,572,947,599" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="815,636,911,663" />
+</map>

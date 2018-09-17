@@ -1,0 +1,6 @@
+<map id="ActorFrameTextureAutoDeleteChildren" name="ActorFrameTextureAutoDeleteChildren">
+<area shape="rect" href="$d1/d9b/classActorFrameTexture.html" title="ActorFrameTexture" alt="ActorFrameTexture" coords="112,124,253,151" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="6,25,97,52" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="121,17,244,60" />
+<area shape="rect" href="$d0/dca/classRageTextureRenderTarget.html" title="RageTextureRenderTarget" alt="RageTextureRenderTarget" coords="268,25,454,52" />
+</map>

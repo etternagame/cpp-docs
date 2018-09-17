@@ -1,0 +1,11 @@
+<map id="TimedFilenameDB" name="TimedFilenameDB">
+<area shape="rect" href="$dc/d80/classFilenameDB.html" title="A container for a file listing. " alt="FilenameDB" coords="763,319,856,345" />
+<area shape="rect" href="$d0/d84/classRageFileDriver.html" title="RageFileDriver" alt="RageFileDriver" coords="1000,319,1109,345" />
+<area shape="rect" href="$d2/d17/classRageEvent.html" title="RageEvent" alt="RageEvent" coords="476,319,559,345" />
+<area shape="rect" href="$dd/d77/classRageWorkerThread.html" title="RageWorkerThread" alt="RageWorkerThread" coords="739,185,880,212" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="265,352,353,379" />
+<area shape="rect" href="$de/de2/classThreadedFileWorker.html" title="ThreadedFileWorker" alt="ThreadedFileWorker" coords="1315,223,1461,249" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,344,141,387" />
+<area shape="rect" href="$dd/d75/classRageFileBasic.html" title="RageFileBasic" alt="RageFileBasic" coords="1004,127,1105,153" />
+<area shape="rect" href="$df/d88/structFileSet.html" title="This represents a directory. " alt="FileSet" coords="1028,191,1081,217" />
+</map>

@@ -1,0 +1,4 @@
+<map id="ScoreDisplayPercentage" name="ScoreDisplayPercentage">
+<area shape="rect" href="$d2/ddc/classScoreDisplay.html" title="ScoreDisplay" alt="ScoreDisplay" coords="42,92,136,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="44,17,134,44" />
+</map>

@@ -1,0 +1,8 @@
+<map id="RageWorkerThread" name="RageWorkerThread">
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="6,292,89,318" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="306,94,429,137" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="420,201,508,228" />
+<area shape="rect" href="$dd/d20/classRageThread.html" title="Thread, mutex, semaphore, and event classes. " alt="RageThread" coords="160,201,250,228" />
+<area shape="rect" href="$d2/d17/classRageEvent.html" title="RageEvent" alt="RageEvent" coords="421,292,504,318" />
+<area shape="rect" href="$d4/db6/structThreadSlot.html" title="ThreadSlot" alt="ThreadSlot" coords="109,102,189,129" />
+</map>

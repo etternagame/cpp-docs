@@ -1,0 +1,4 @@
+<map id="Banner" name="Banner">
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="12,92,60,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="12,17,60,44" />
+</map>

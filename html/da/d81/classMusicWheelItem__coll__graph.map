@@ -1,0 +1,19 @@
+<map id="MusicWheelItem" name="MusicWheelItem">
+<area shape="rect" href="$dc/dba/classWheelItemBase.html" title="An item on the wheel. " alt="WheelItemBase" coords="1157,209,1269,236" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="809,389,900,416" />
+<area shape="rect" href="$d5/dae/classTextBanner.html" title="TextBanner" alt="TextBanner" coords="1169,544,1257,570" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="432,326,480,353" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="831,440,879,466" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="811,673,899,700" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="979,270,1059,297" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,665,141,708" />
+<area shape="rect" href="$d0/d36/structWheelItemBaseData.html" title="WheelItemBaseData" alt="WheelItemBaseData" coords="384,156,528,182" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="777,1222,932,1249" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="388,1222,524,1249" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="436,540,476,566" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="40,212,120,238" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="349,433,563,460" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="28,1222,132,1249" />
+<area shape="rect" href="$dc/d17/classWheelNotifyIcon.html" title="A little graphic to the side of the song&#39;s text banner in the MusicWheel. " alt="WheelNotifyIcon" coords="1151,440,1276,466" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="28,1360,132,1386" />
+</map>

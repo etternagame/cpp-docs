@@ -1,0 +1,9 @@
+<map id="RageSoundDriver::Sound" name="RageSoundDriver::Sound">
+<area shape="rect" href="$d3/d9d/classRageSoundBase.html" title="RageSoundBase" alt="RageSoundBase" coords="448,9,563,36" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="464,73,547,100" />
+<area shape="rect" href="$d2/dbc/classCircBuf.html" title="CircBuf\&lt; RageSoundDriver\l::Sound::QueuedPosMap \&gt;" alt="CircBuf\&lt; RageSoundDriver\l::Sound::QueuedPosMap \&gt;" coords="408,126,603,169" />
+<area shape="rect" href="$d2/d2d/structRageSoundDriver_1_1Sound_1_1QueuedPosMap.html" title="RageSoundDriver::Sound\l::QueuedPosMap" alt="RageSoundDriver::Sound\l::QueuedPosMap" coords="19,46,192,89" />
+<area shape="rect" href="$d2/dbc/classCircBuf.html" title="CircBuf\&lt; T \&gt;" alt="CircBuf\&lt; T \&gt;" coords="55,174,156,201" />
+<area shape="rect" href="$d2/dbc/classCircBuf.html" title="CircBuf\&lt; RageSoundDriver\l::sound_block \&gt;" alt="CircBuf\&lt; RageSoundDriver\l::sound_block \&gt;" coords="408,206,603,249" />
+<area shape="rect" href="$dc/dba/structRageSoundDriver_1_1sound__block.html" title="RageSoundDriver::sound\l_block" alt="RageSoundDriver::sound\l_block" coords="20,270,191,313" />
+</map>

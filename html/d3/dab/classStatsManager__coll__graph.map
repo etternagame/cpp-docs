@@ -1,0 +1,4 @@
+<map id="StatsManager" name="StatsManager">
+<area shape="rect" href="$d2/dad/classStageStats.html" title="Contains statistics for one stage of play. " alt="StageStats" coords="317,215,392,241" />
+<area shape="rect" href="$d0/d24/classPlayerStageStats.html" title="Contains statistics for one stage of play - either one song, or a whole course. " alt="PlayerStageStats" coords="500,108,617,135" />
+</map>

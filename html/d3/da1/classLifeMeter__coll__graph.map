@@ -1,0 +1,15 @@
+<map id="LifeMeter" name="LifeMeter">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="836,370,926,397" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="470,337,518,364" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="30,52,126,78" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="38,214,118,241" />
+<area shape="rect" href="$d0/d24/classPlayerStageStats.html" title="Contains statistics for one stage of play - either one song, or a whole course. " alt="PlayerStageStats" coords="822,838,940,865" />
+<area shape="rect" href="$dd/dc1/structHighScore.html" title="The high score that is earned by a player. " alt="HighScore" coords="456,1136,533,1162" />
+<area shape="rect" href="$d9/d2e/classSampleHistory.html" title="Store a trailing history of values, and retrieve values with interpolation. " alt="SampleHistory" coords="441,1456,548,1482" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="442,468,546,494" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="446,806,542,833" />
+<area shape="rect" href="$d2/dff/classStyle.html" title="Style" alt="Style" coords="473,1078,516,1105" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="840,1302,922,1329" />
+<area shape="rect" href="$de/d39/classSongPosition.html" title="SongPosition" alt="SongPosition" coords="448,1398,541,1425" />
+<area shape="rect" href="$d6/d78/classModsGroup.html" title="ModsGroup\&lt; PlayerOptions \&gt;" alt="ModsGroup\&lt; PlayerOptions \&gt;" coords="389,1206,600,1233" />
+</map>

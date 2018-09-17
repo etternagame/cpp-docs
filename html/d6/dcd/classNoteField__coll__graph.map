@@ -1,0 +1,21 @@
+<map id="NoteField" name="NoteField">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="1216,376,1307,402" />
+<area shape="rect" href="$df/d6a/classGhostArrowRow.html" title="Row of GhostArrow Actors. " alt="GhostArrowRow" coords="1553,453,1679,480" />
+<area shape="rect" href="$d8/dbd/classReceptorArrowRow.html" title="A row of ReceptorArrow objects. " alt="ReceptorArrowRow" coords="1544,696,1688,722" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="837,345,885,372" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="1592,185,1640,212" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="1217,1048,1305,1074" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="1413,248,1493,274" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="380,372,476,398" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="367,1032,489,1074" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="841,1048,881,1074" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="388,608,468,634" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="755,834,968,861" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="809,738,913,765" />
+<area shape="rect" href="$d3/d4e/classQuad.html" title="A rectangular shaped Actor with color. " alt="Quad" coords="1985,186,2031,213" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="825,1268,897,1294" />
+<area shape="rect" href="$d5/dbf/structNoteFieldRenderArgs.html" title="NoteFieldRenderArgs" alt="NoteFieldRenderArgs" coords="1931,709,2085,736" />
+<area shape="rect" href="$d5/d12/structNoteField_1_1NoteDisplayCols.html" title="NoteField::NoteDisplayCols" alt="NoteField::NoteDisplayCols" coords="1915,517,2101,544" />
+<area shape="rect" href="$d1/d46/classNoteDisplay.html" title="Draws TapNotes and HoldNotes. " alt="NoteDisplay" coords="1571,549,1661,576" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="1220,581,1303,608" />
+</map>

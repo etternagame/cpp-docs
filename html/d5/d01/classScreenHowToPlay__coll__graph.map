@@ -1,0 +1,25 @@
+<map id="ScreenHowToPlay" name="ScreenHowToPlay">
+<area shape="rect" href="$d8/d7f/classScreenAttract.html" title="ScreenAttract" alt="ScreenAttract" coords="1771,792,1869,819" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="1407,723,1593,749" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="919,792,1073,819" />
+<area shape="rect" href="$d2/d4b/classPlayer.html" title="Accepts input, knocks down TapNotes that were stepped on, and keeps score for the player..." alt="Player" coords="1475,1651,1525,1677" />
+<area shape="rect" href="$d3/d96/classLifeMeterBar.html" title="The player&#39;s life represented as a bar. " alt="LifeMeterBar" coords="1449,1071,1551,1097" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="44,956,167,999" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="475,1739,523,1765" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="420,932,577,959" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="455,996,543,1023" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="975,265,1017,292" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; TapNoteScore \&gt;" alt="ThemeMetric\&lt; TapNoteScore \&gt;" coords="616,1101,835,1128" />
+<area shape="rect" href="$d6/d18/classModel.html" title="Model" alt="Model" coords="971,2033,1021,2060" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="956,1379,1036,1405" />
+<area shape="rect" href="$d3/db2/classStreamDisplay.html" title="StreamDisplay" alt="StreamDisplay" coords="943,1040,1049,1067" />
+<area shape="rect" href="$dd/def/classPlayerPlus.html" title="PlayerPlus" alt="PlayerPlus" coords="1780,1651,1860,1677" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="960,1873,1032,1900" />
+<area shape="rect" href="$da/d11/classLifeMeter.html" title="The player&#39;s life. " alt="LifeMeter" coords="957,1524,1035,1551" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Song \&gt;" alt="CachedObject\&lt; Song \&gt;" coords="1419,324,1581,351" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" coords="408,244,589,287" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; float \&gt;" alt="ThemeMetric1D\&lt; float \&gt;" coords="909,984,1083,1011" />
+<area shape="rect" href="$d3/d54/structmsAnimation.html" title="msAnimation" alt="msAnimation" coords="448,2212,549,2239" />
+<area shape="rect" href="$d6/d5d/classRageCompiledGeometry.html" title="RageCompiledGeometry" alt="RageCompiledGeometry" coords="19,2069,192,2096" />
+<area shape="rect" href="$d8/dac/classRageModelGeometry.html" title="RageModelGeometry" alt="RageModelGeometry" coords="423,2033,575,2060" />
+</map>

@@ -1,0 +1,9 @@
+<map id="ScreenReloadSongsLoadingWindow" name="ScreenReloadSongsLoadingWindow">
+<area shape="rect" href="$d3/d05/classLoadingWindow.html" title="Opens and displays the loading banner. " alt="LoadingWindow" coords="692,189,814,216" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="712,242,794,269" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="709,306,797,333" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="349,126,397,153" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,90,141,133" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="353,178,393,205" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="266,386,480,413" />
+</map>

@@ -1,0 +1,6 @@
+<map id="ScreenGameplayNormal" name="ScreenGameplayNormal">
+<area shape="rect" href="$d4/d2f/classScreenGameplayLesson.html" title="Shows some explanation pages, then allows 3 tries to pass a song. " alt="ScreenGameplayLesson" coords="7,241,172,268" />
+<area shape="rect" href="$d8/de1/classScreenGameplaySyncMachine.html" title="A gameplay screen used for syncing the machine&#39;s timing. " alt="ScreenGameplaySyncMachine" coords="196,241,407,268" />
+<area shape="rect" href="$d8/d0e/classScreenGameplay.html" title="The music plays, the notes scroll, and the Player is pressing buttons. " alt="ScreenGameplay" coords="135,92,255,119" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="101,17,288,44" />
+</map>

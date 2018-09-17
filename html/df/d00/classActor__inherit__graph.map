@@ -1,0 +1,50 @@
+<map id="Actor" name="Actor">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="515,843,605,869" />
+<area shape="rect" href="$da/d7f/classActorMultiTexture.html" title="ActorMultiTexture" alt="ActorMultiTexture" coords="492,893,628,920" />
+<area shape="rect" href="$d1/d05/classActorMultiVertex.html" title="ActorMultiVertex" alt="ActorMultiVertex" coords="496,944,624,971" />
+<area shape="rect" href="$d6/d15/classActorProxy.html" title="Renders another actor. " alt="ActorProxy" coords="516,995,604,1021" />
+<area shape="rect" href="$d8/d45/classActorSound.html" title="RageSound Actor interface. " alt="ActorSound" coords="516,1045,604,1072" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="516,1096,604,1123" />
+<area shape="rect" href="$d7/d0c/classGraphBody.html" title="GraphBody" alt="GraphBody" coords="516,1147,604,1173" />
+<area shape="rect" href="$d0/dfd/classGraphLine.html" title="GraphLine" alt="GraphLine" coords="519,1197,601,1224" />
+<area shape="rect" href="$d8/d9b/classHiddenActor.html" title="Set up a hidden Actor that won&#39;t be drawn. " alt="HiddenActor" coords="512,1248,608,1275" />
+<area shape="rect" href="$d6/d18/classModel.html" title="Model" alt="Model" coords="535,1299,585,1325" />
+<area shape="rect" href="$d1/d18/structNoteColumnRenderer.html" title="NoteColumnRenderer" alt="NoteColumnRenderer" coords="481,1349,639,1376" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="536,1400,584,1427" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="204,1121,337,1148" />
+<area shape="rect" href="$d0/d1b/classIMessageSubscriber.html" title="IMessageSubscriber" alt="IMessageSubscriber" coords="17,1121,156,1148" />
+<area shape="rect" href="$d9/db5/classActorFrameAutoDeleteChildren.html" title="an ActorFrame that handles deleting children Actors automatically. " alt="ActorFrameAutoDeleteChildren" coords="688,7,909,33" />
+<area shape="rect" href="$d1/d9b/classActorFrameTexture.html" title="ActorFrameTexture" alt="ActorFrameTexture" coords="728,57,869,84" />
+<area shape="rect" href="$d9/dcd/classActorScroller.html" title="ActorFrame that moves its children. " alt="ActorScroller" coords="751,108,847,135" />
+<area shape="rect" href="$d1/dc7/classBackground.html" title="the Background that is behind the notes while playing. " alt="Background" coords="753,159,844,185" />
+<area shape="rect" href="$d0/dd4/classBackgroundImpl.html" title="BackgroundImpl" alt="BackgroundImpl" coords="737,209,860,236" />
+<area shape="rect" href="$d6/dde/classBeginnerHelper.html" title="A dancing character that follows the steps of the Song. " alt="BeginnerHelper" coords="741,260,856,287" />
+<area shape="rect" href="$d3/d72/classBGAnimationLayer.html" title="Layer elements used by BGAnimation. " alt="BGAnimationLayer" coords="727,311,871,337" />
+<area shape="rect" href="$d7/d33/classBrightnessOverlay.html" title="BrightnessOverlay" alt="BrightnessOverlay" coords="733,361,864,388" />
+<area shape="rect" href="$de/d18/classComboGraph.html" title="ComboGraph" alt="ComboGraph" coords="748,412,849,439" />
+<area shape="rect" href="$d8/d15/classControllerStateDisplay.html" title="ControllerStateDisplay" alt="ControllerStateDisplay" coords="720,463,877,489" />
+<area shape="rect" href="$df/d5e/classDancingCharacters.html" title="Characters that react to how the players are doing. " alt="DancingCharacters" coords="731,513,867,540" />
+<area shape="rect" href="$d3/daf/classDualScrollBar.html" title="A scrollbar with two independent thumbs. " alt="DualScrollBar" coords="748,564,849,591" />
+<area shape="rect" href="$d9/d36/classFadingBanner.html" title="FadingBanner" alt="FadingBanner" coords="747,615,851,641" />
+<area shape="rect" href="$dd/df6/classForeground.html" title="Foreground in front of notes while playing. " alt="Foreground" coords="755,665,843,692" />
+<area shape="rect" href="$df/d6a/classGhostArrowRow.html" title="Row of GhostArrow Actors. " alt="GhostArrowRow" coords="736,716,861,743" />
+<area shape="rect" href="$d7/d79/classGradeDisplay.html" title="Grade shown on ScreenEvaluation. " alt="GradeDisplay" coords="749,767,848,793" />
+<area shape="rect" href="$d2/d7f/classGraphDisplay.html" title="A graph of the player&#39;s life over the course of Gameplay, used on Evaluation. " alt="GraphDisplay" coords="748,817,849,844" />
+<area shape="rect" href="$dc/dfe/classGrooveRadar.html" title="The song&#39;s GrooveRadar displayed in SelectMusic. " alt="GrooveRadar" coords="749,868,848,895" />
+<area shape="rect" href="$df/d98/classGrooveRadar_1_1GrooveRadarValueMap.html" title="The companion ValueMap to the GrooveRadar. " alt="GrooveRadar::GrooveRadar\lValueMap" coords="703,919,895,961" />
+<area shape="rect" href="$d1/dec/classHoldJudgment.html" title="HoldJudgment" alt="HoldJudgment" coords="745,985,852,1012" />
+<area shape="rect" href="$da/d11/classLifeMeter.html" title="The player&#39;s life. " alt="LifeMeter" coords="760,1036,837,1063" />
+<area shape="rect" href="$d1/d15/classLyricDisplay.html" title="Displays lyrics along with the song on Gameplay. " alt="LyricDisplay" coords="751,1087,847,1113" />
+<area shape="rect" href="$d2/d3c/classMenuTimer.html" title="MenuTimer" alt="MenuTimer" coords="755,1137,843,1164" />
+<area shape="rect" href="$d6/d46/classMeterDisplay.html" title="MeterDisplay" alt="MeterDisplay" coords="749,1188,848,1215" />
+<area shape="rect" href="$d9/d45/classModIcon.html" title="Shows PlayerOptions and SongOptions in icon form. " alt="ModIcon" coords="764,1239,833,1265" />
+<area shape="rect" href="$d6/da6/classModIconRow.html" title="ModIconRow" alt="ModIconRow" coords="748,1289,849,1316" />
+<area shape="rect" href="$d1/dc0/classNoteField.html" title="An Actor that renders NoteData. " alt="NoteField" coords="761,1340,836,1367" />
+<area shape="rect" href="$d6/d2c/classOptionListRow.html" title="OptionListRow" alt="OptionListRow" coords="743,1391,855,1417" />
+<area shape="rect" href="$de/db2/classOptionRow.html" title="OptionRow" alt="OptionRow" coords="755,1441,843,1468" />
+<area shape="rect" href="$d6/d4d/classOptionsCursor.html" title="A cursor for ScreenOptions. " alt="OptionsCursor" coords="747,1492,851,1519" />
+<area shape="rect" href="$dc/daf/classOptionsList.html" title="A popup options list. " alt="OptionsList" coords="756,1543,841,1569" />
+<area shape="rect" href="$d7/d66/classPaneDisplay.html" title="An Actor that displays Song information. " alt="PaneDisplay" coords="753,1593,844,1620" />
+<area shape="rect" href="$df/d08/classPercentageDisplay.html" title="An Actor that displays a percentage. " alt="PercentageDisplay" coords="733,1644,864,1671" />
+<area shape="rect" href="$d2/d4b/classPlayer.html" title="Accepts input, knocks down TapNotes that were stepped on, and keeps score for the player..." alt="Player" coords="773,1695,824,1721" />
+</map>

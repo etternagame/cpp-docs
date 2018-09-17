@@ -1,0 +1,16 @@
+<map id="GameCommand" name="GameCommand">
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="1180,976,1223,1003" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Steps \&gt;" alt="CachedObject\&lt; Steps \&gt;" coords="1412,976,1575,1003" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="841,716,884,743" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="443,1001,531,1028" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,727,141,769" />
+<area shape="rect" href="$d7/ddd/classCharacter.html" title="A persona that defines attacks for use in battle. " alt="Character" coords="1164,415,1239,441" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; NoteData \&gt;" alt="HiddenPtr\&lt; NoteData \&gt;" coords="779,1184,947,1211" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="815,1248,911,1275" />
+<area shape="rect" href="$d0/d22/classRageTexturePreloader.html" title="Load the textures in advance for using them later. " alt="RageTexturePreloader" coords="784,341,941,368" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; LuaReference \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; LuaReference \&gt;" coords="784,452,941,495" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="435,455,539,481" />
+<area shape="rect" href="$d2/dff/classStyle.html" title="Style" alt="Style" coords="1180,33,1223,60" />
+<area shape="rect" href="$da/daa/structStyle_1_1ColumnInfo.html" title="Some general column infromation. " alt="Style::ColumnInfo" coords="799,9,927,36" />
+<area shape="rect" href="$dd/d68/classCommands.html" title="Commands" alt="Commands" coords="1159,143,1244,169" />
+</map>

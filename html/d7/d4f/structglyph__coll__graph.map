@@ -1,0 +1,7 @@
+<map id="glyph" name="glyph">
+<area shape="rect" href="$df/def/classStepMania_1_1Rect.html" title="StepMania::Rect\&lt; float \&gt;" alt="StepMania::Rect\&lt; float \&gt;" coords="44,124,217,150" />
+<area shape="rect" href="$df/def/classStepMania_1_1Rect.html" title="StepMania::Rect\&lt; T \&gt;" alt="StepMania::Rect\&lt; T \&gt;" coords="7,25,159,52" />
+<area shape="rect" href="$dd/dfa/classFontPage.html" title="FontPage" alt="FontPage" coords="369,124,441,150" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="183,17,305,60" />
+<area shape="rect" href="$d4/d29/structFontPageTextures.html" title="The textures used by the font. " alt="FontPageTextures" coords="569,25,697,52" />
+</map>

@@ -1,0 +1,6 @@
+<map id="RenderTarget_Win32" name="RenderTarget_Win32">
+<area shape="rect" href="$d5/d80/classRenderTarget.html" title="RenderTarget" alt="RenderTarget" coords="28,108,129,134" />
+<area shape="rect" href="$d6/d4a/structRenderTargetParam.html" title="RenderTargetParam" alt="RenderTargetParam" coords="6,17,150,44" />
+<area shape="rect" href="$d2/d5f/classLowLevelWindow__Win32.html" title="LowLevelWindow_Win32" alt="LowLevelWindow_Win32" coords="153,108,340,134" />
+<area shape="rect" href="$d4/d9f/classLowLevelWindow.html" title="Handle low-level operations that OGL 1.x doesn&#39;t give us. " alt="LowLevelWindow" coords="180,17,313,44" />
+</map>

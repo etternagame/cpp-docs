@@ -1,0 +1,4 @@
+<map id="ScoreDisplayAliveTime" name="ScoreDisplayAliveTime">
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="45,92,133,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="65,17,113,44" />
+</map>

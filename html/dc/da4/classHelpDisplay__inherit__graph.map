@@ -1,0 +1,4 @@
+<map id="HelpDisplay" name="HelpDisplay">
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="8,92,96,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="28,17,76,44" />
+</map>

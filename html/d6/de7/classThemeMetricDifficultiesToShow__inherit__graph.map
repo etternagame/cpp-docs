@@ -1,0 +1,5 @@
+<map id="ThemeMetricDifficultiesToShow" name="ThemeMetricDifficultiesToShow">
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RString \&gt;" alt="ThemeMetric\&lt; RString \&gt;" coords="32,185,208,212" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="76,17,180,44" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="127,94,263,121" />
+</map>

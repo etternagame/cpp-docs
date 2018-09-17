@@ -1,0 +1,11 @@
+<map id="ScreenWithMenuElementsBasic" name="ScreenWithMenuElementsBasic">
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="1145,536,1332,563" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="853,251,907,277" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="329,135,484,161" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,436,141,479" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="328,385,485,412" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="557,545,731,588" />
+<area shape="rect" href="$de/dfc/classTransition.html" title="Transition" alt="Transition" coords="841,791,919,817" />
+<area shape="rect" href="$d2/d3c/classMenuTimer.html" title="MenuTimer" alt="MenuTimer" coords="836,536,924,563" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="367,676,447,703" />
+</map>

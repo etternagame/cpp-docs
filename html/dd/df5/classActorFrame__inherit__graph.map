@@ -1,0 +1,50 @@
+<map id="ActorFrame" name="ActorFrame">
+<area shape="rect" href="$d9/db5/classActorFrameAutoDeleteChildren.html" title="an ActorFrame that handles deleting children Actors automatically. " alt="ActorFrameAutoDeleteChildren" coords="434,7,656,33" />
+<area shape="rect" href="$d1/d9b/classActorFrameTexture.html" title="ActorFrameTexture" alt="ActorFrameTexture" coords="474,57,616,84" />
+<area shape="rect" href="$d9/dcd/classActorScroller.html" title="ActorFrame that moves its children. " alt="ActorScroller" coords="497,108,593,135" />
+<area shape="rect" href="$d1/dc7/classBackground.html" title="the Background that is behind the notes while playing. " alt="Background" coords="500,159,590,185" />
+<area shape="rect" href="$d0/dd4/classBackgroundImpl.html" title="BackgroundImpl" alt="BackgroundImpl" coords="484,209,606,236" />
+<area shape="rect" href="$d6/dde/classBeginnerHelper.html" title="A dancing character that follows the steps of the Song. " alt="BeginnerHelper" coords="488,260,602,287" />
+<area shape="rect" href="$d3/d72/classBGAnimationLayer.html" title="Layer elements used by BGAnimation. " alt="BGAnimationLayer" coords="473,311,617,337" />
+<area shape="rect" href="$d7/d33/classBrightnessOverlay.html" title="BrightnessOverlay" alt="BrightnessOverlay" coords="480,361,610,388" />
+<area shape="rect" href="$de/d18/classComboGraph.html" title="ComboGraph" alt="ComboGraph" coords="494,412,596,439" />
+<area shape="rect" href="$d8/d15/classControllerStateDisplay.html" title="ControllerStateDisplay" alt="ControllerStateDisplay" coords="466,463,624,489" />
+<area shape="rect" href="$df/d5e/classDancingCharacters.html" title="Characters that react to how the players are doing. " alt="DancingCharacters" coords="477,513,613,540" />
+<area shape="rect" href="$d3/daf/classDualScrollBar.html" title="A scrollbar with two independent thumbs. " alt="DualScrollBar" coords="494,564,596,591" />
+<area shape="rect" href="$d9/d36/classFadingBanner.html" title="FadingBanner" alt="FadingBanner" coords="493,615,597,641" />
+<area shape="rect" href="$dd/df6/classForeground.html" title="Foreground in front of notes while playing. " alt="Foreground" coords="501,665,589,692" />
+<area shape="rect" href="$df/d6a/classGhostArrowRow.html" title="Row of GhostArrow Actors. " alt="GhostArrowRow" coords="482,716,608,743" />
+<area shape="rect" href="$d7/d79/classGradeDisplay.html" title="Grade shown on ScreenEvaluation. " alt="GradeDisplay" coords="496,767,594,793" />
+<area shape="rect" href="$d2/d7f/classGraphDisplay.html" title="A graph of the player&#39;s life over the course of Gameplay, used on Evaluation. " alt="GraphDisplay" coords="494,817,596,844" />
+<area shape="rect" href="$dc/dfe/classGrooveRadar.html" title="The song&#39;s GrooveRadar displayed in SelectMusic. " alt="GrooveRadar" coords="496,868,594,895" />
+<area shape="rect" href="$df/d98/classGrooveRadar_1_1GrooveRadarValueMap.html" title="The companion ValueMap to the GrooveRadar. " alt="GrooveRadar::GrooveRadar\lValueMap" coords="449,919,641,961" />
+<area shape="rect" href="$d1/dec/classHoldJudgment.html" title="HoldJudgment" alt="HoldJudgment" coords="492,985,598,1012" />
+<area shape="rect" href="$da/d11/classLifeMeter.html" title="The player&#39;s life. " alt="LifeMeter" coords="506,1036,584,1063" />
+<area shape="rect" href="$d1/d15/classLyricDisplay.html" title="Displays lyrics along with the song on Gameplay. " alt="LyricDisplay" coords="497,1087,593,1113" />
+<area shape="rect" href="$d2/d3c/classMenuTimer.html" title="MenuTimer" alt="MenuTimer" coords="501,1137,589,1164" />
+<area shape="rect" href="$d6/d46/classMeterDisplay.html" title="MeterDisplay" alt="MeterDisplay" coords="496,1188,594,1215" />
+<area shape="rect" href="$d9/d45/classModIcon.html" title="Shows PlayerOptions and SongOptions in icon form. " alt="ModIcon" coords="510,1239,580,1265" />
+<area shape="rect" href="$d6/da6/classModIconRow.html" title="ModIconRow" alt="ModIconRow" coords="494,1289,596,1316" />
+<area shape="rect" href="$d1/dc0/classNoteField.html" title="An Actor that renders NoteData. " alt="NoteField" coords="508,1340,582,1367" />
+<area shape="rect" href="$d6/d2c/classOptionListRow.html" title="OptionListRow" alt="OptionListRow" coords="489,1391,601,1417" />
+<area shape="rect" href="$de/db2/classOptionRow.html" title="OptionRow" alt="OptionRow" coords="501,1441,589,1468" />
+<area shape="rect" href="$d6/d4d/classOptionsCursor.html" title="A cursor for ScreenOptions. " alt="OptionsCursor" coords="493,1492,597,1519" />
+<area shape="rect" href="$dc/daf/classOptionsList.html" title="A popup options list. " alt="OptionsList" coords="502,1543,588,1569" />
+<area shape="rect" href="$d7/d66/classPaneDisplay.html" title="An Actor that displays Song information. " alt="PaneDisplay" coords="500,1593,590,1620" />
+<area shape="rect" href="$df/d08/classPercentageDisplay.html" title="An Actor that displays a percentage. " alt="PercentageDisplay" coords="480,1644,610,1671" />
+<area shape="rect" href="$d2/d4b/classPlayer.html" title="Accepts input, knocks down TapNotes that were stepped on, and keeps score for the player..." alt="Player" coords="520,1695,570,1721" />
+<area shape="rect" href="$d7/db9/classReceptorArrow.html" title="A gray arrow that &quot;receives&quot; the note arrows. " alt="ReceptorArrow" coords="489,1745,601,1772" />
+<area shape="rect" href="$d8/dbd/classReceptorArrowRow.html" title="A row of ReceptorArrow objects. " alt="ReceptorArrowRow" coords="473,1796,617,1823" />
+<area shape="rect" href="$d6/d7c/classRoomInfoDisplay.html" title="RoomInfoDisplay" alt="RoomInfoDisplay" coords="481,1847,609,1873" />
+<area shape="rect" href="$d2/ddc/classScoreDisplay.html" title="ScoreDisplay" alt="ScoreDisplay" coords="498,1897,592,1924" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="518,1948,572,1975" />
+<area shape="rect" href="$d9/d01/classScrollBar.html" title="ScrollBar" alt="ScrollBar" coords="510,1999,580,2025" />
+<area shape="rect" href="$dc/d98/classSnapDisplay.html" title="Graphics on ends of receptors on Edit screen that show the current snap type. " alt="SnapDisplay" coords="500,2049,590,2076" />
+<area shape="rect" href="$d5/de4/classStepsDisplay.html" title="A graphical representation of a Steps or a Trail. " alt="StepsDisplay" coords="498,2100,592,2127" />
+<area shape="rect" href="$db/de6/classStepsDisplayList.html" title="StepsDisplayList" alt="StepsDisplayList" coords="486,2151,604,2177" />
+<area shape="rect" href="$d3/db2/classStreamDisplay.html" title="StreamDisplay" alt="StreamDisplay" coords="492,2201,598,2228" />
+<area shape="rect" href="$d5/dae/classTextBanner.html" title="TextBanner" alt="TextBanner" coords="501,2252,589,2279" />
+<area shape="rect" href="$de/dfc/classTransition.html" title="Transition" alt="Transition" coords="506,2303,584,2329" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="198,1163,246,1189" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="17,1163,150,1189" />
+</map>

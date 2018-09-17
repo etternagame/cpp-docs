@@ -1,0 +1,13 @@
+<map id="MusicWheelItemData" name="MusicWheelItemData">
+<area shape="rect" href="$d0/d36/structWheelItemBaseData.html" title="WheelItemBaseData" alt="WheelItemBaseData" coords="275,73,419,100" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,262,141,305" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="704,406,747,433" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="303,270,391,297" />
+<area shape="rect" href="$db/d41/classGameCommand.html" title="GameCommand" alt="GameCommand" coords="993,621,1113,648" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="40,9,120,36" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Song \&gt;" alt="CachedObject\&lt; Song \&gt;" coords="972,406,1135,433" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" coords="256,321,437,364" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; GameCommand \&gt;" alt="HiddenPtr\&lt; GameCommand \&gt;" coords="1324,334,1540,361" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; T \&gt;" alt="HiddenPtr\&lt; T \&gt;" coords="996,334,1111,361" />
+<area shape="rect" href="$d9/d7a/structWheelNotifyIcon_1_1Flags.html" title="WheelNotifyIcon::Flags" alt="WheelNotifyIcon::Flags" coords="1351,386,1513,413" />
+</map>

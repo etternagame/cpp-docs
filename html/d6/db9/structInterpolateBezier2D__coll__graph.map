@@ -1,0 +1,5 @@
+<map id="InterpolateBezier2D" name="InterpolateBezier2D">
+<area shape="rect" href="$d7/d71/classITween.html" title="The interface for simple interpolation. " alt="ITween" coords="6,124,65,150" />
+<area shape="rect" href="$d4/d53/classRageBezier2D.html" title="RageBezier2D" alt="RageBezier2D" coords="89,124,193,150" />
+<area shape="rect" href="$de/da9/classRageQuadratic.html" title="RageQuadratic" alt="RageQuadratic" coords="86,17,196,44" />
+</map>

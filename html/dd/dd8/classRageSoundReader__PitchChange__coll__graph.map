@@ -1,0 +1,7 @@
+<map id="RageSoundReader_PitchChange" name="RageSoundReader_PitchChange">
+<area shape="rect" href="$d7/dc4/classRageSoundReader__Filter.html" title="RageSoundReader_Filter" alt="RageSoundReader_Filter" coords="629,126,805,153" />
+<area shape="rect" href="$d5/db8/classRageSoundReader__SpeedChange.html" title="RageSoundReader_SpeedChange" alt="RageSoundReader_SpeedChange" coords="1003,65,1232,92" />
+<area shape="rect" href="$d1/d04/classRageSoundReader__Resample__Good.html" title="This class changes the sampling rate of a sound. " alt="RageSoundReader_Resample_Good" coords="992,180,1243,206" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="17,126,151,153" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; RageSoundReader \&gt;" alt="HiddenPtr\&lt; RageSoundReader \&gt;" coords="255,153,484,180" />
+</map>

@@ -1,0 +1,10 @@
+<map id="SongManager" name="SongManager">
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; RageColor \&gt;" alt="ThemeMetric1D\&lt; RageColor \&gt;" coords="1087,333,1300,360" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="309,389,413,416" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; T \&gt;" alt="ThemeMetric1D\&lt; T \&gt;" coords="692,303,844,329" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="1121,516,1265,543" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="700,581,836,608" />
+<area shape="rect" href="$d0/d22/classRageTexturePreloader.html" title="Load the textures in advance for using them later. " alt="RageTexturePreloader" coords="889,87,1047,113" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="300,543,423,585" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="309,669,413,696" />
+</map>

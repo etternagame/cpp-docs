@@ -1,0 +1,6 @@
+<map id="WheelBase" name="WheelBase">
+<area shape="rect" href="$d7/def/classMusicWheel.html" title="MusicWheel" alt="MusicWheel" coords="7,241,100,268" />
+<area shape="rect" href="$d7/d50/classRoomWheel.html" title="RoomWheel" alt="RoomWheel" coords="124,241,217,268" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="67,92,157,119" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="88,17,136,44" />
+</map>

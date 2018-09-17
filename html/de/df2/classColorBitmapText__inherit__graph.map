@@ -1,0 +1,4 @@
+<map id="ColorBitmapText" name="ColorBitmapText">
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="25,92,113,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="45,17,93,44" />
+</map>

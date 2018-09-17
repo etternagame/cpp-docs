@@ -1,0 +1,4 @@
+<map id="ScreenSongOptions" name="ScreenSongOptions">
+<area shape="rect" href="$d5/dfb/classScreenOptionsMaster.html" title="ScreenOptionsMaster" alt="ScreenOptionsMaster" coords="6,92,156,118" />
+<area shape="rect" href="$df/d91/classScreenOptions.html" title="A grid of options; the selected option is drawn with a highlight rectangle. " alt="ScreenOptions" coords="29,17,133,44" />
+</map>

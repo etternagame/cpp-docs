@@ -1,0 +1,5 @@
+<map id="ActorFrameTexture" name="ActorFrameTexture">
+<area shape="rect" href="$d5/d95/classActorFrameTextureAutoDeleteChildren.html" title="ActorFrameTextureAutoDelete\lChildren" alt="ActorFrameTextureAutoDelete\lChildren" coords="7,241,223,284" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="69,92,160,119" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="91,17,139,44" />
+</map>

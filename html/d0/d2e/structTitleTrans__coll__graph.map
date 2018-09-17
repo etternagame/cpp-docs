@@ -1,0 +1,5 @@
+<map id="TitleTrans" name="TitleTrans">
+<area shape="rect" href="$d8/d28/classRegex.html" title="Regex" alt="Regex" coords="7,204,57,230" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="35,17,157,60" />
+<area shape="rect" href="$dd/da4/structTitleFields.html" title="The different fields to potentially translate. " alt="TitleFields" coords="120,204,197,230" />
+</map>

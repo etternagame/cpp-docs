@@ -1,0 +1,13 @@
+<map id="ScreenReloadSongs" name="ScreenReloadSongs">
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="1201,267,1254,293" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="758,303,849,329" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="352,348,400,375" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="760,576,848,603" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,276,141,319" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="512,161,666,188" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="510,241,668,268" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="356,732,396,759" />
+<area shape="rect" href="$d5/d2f/classInputQueueCodeSet.html" title="InputQueueCodeSet" alt="InputQueueCodeSet" coords="733,425,874,452" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="269,415,482,441" />
+<area shape="rect" href="$d3/d05/classLoadingWindow.html" title="Opens and displays the loading banner. " alt="LoadingWindow" coords="1166,607,1289,633" />
+</map>

@@ -1,0 +1,7 @@
+<map id="RenderTarget_X11" name="RenderTarget_X11">
+<area shape="rect" href="$d5/d80/classRenderTarget.html" title="RenderTarget" alt="RenderTarget" coords="30,108,132,134" />
+<area shape="rect" href="$d6/d4a/structRenderTargetParam.html" title="RenderTargetParam" alt="RenderTargetParam" coords="6,17,150,44" />
+<area shape="rect" href="$db/df8/classLowLevelWindow__X11.html" title="LowLevelWindow_X11" alt="LowLevelWindow_X11" coords="158,108,324,134" />
+<area shape="rect" href="$d4/d9f/classLowLevelWindow.html" title="Handle low-level operations that OGL 1.x doesn&#39;t give us. " alt="LowLevelWindow" coords="174,17,308,44" />
+<area shape="rect" href="$dc/dc2/classVideoModeParams.html" title="The parameters used for the present Video Mode. " alt="VideoModeParams" coords="332,17,468,44" />
+</map>

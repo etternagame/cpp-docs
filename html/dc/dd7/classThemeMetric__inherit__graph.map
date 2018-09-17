@@ -1,0 +1,17 @@
+<map id="ThemeMetric&lt; T &gt;" name="ThemeMetric&lt; T &gt;">
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RankingType \&gt;" alt="ThemeMetric\&lt; RankingType \&gt;" coords="571,9,789,36" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; SampleMusic\lPreviewMode \&gt;" alt="ThemeMetric\&lt; SampleMusic\lPreviewMode \&gt;" coords="580,65,780,108" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RString \&gt;" alt="ThemeMetric\&lt; RString \&gt;" coords="592,137,768,164" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; TapNoteScore \&gt;" alt="ThemeMetric\&lt; TapNoteScore \&gt;" coords="571,201,789,228" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="601,265,759,292" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="608,329,752,356" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="593,385,767,428" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; LuaReference \&gt;" alt="ThemeMetric\&lt; LuaReference \&gt;" coords="569,457,791,484" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="603,521,757,548" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RageColor \&gt;" alt="ThemeMetric\&lt; RageColor \&gt;" coords="581,585,779,612" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; AutoPtrCopy\lOnWrite \&gt;" alt="ThemeMetric\&lt; AutoPtrCopy\lOnWrite \&gt;" coords="579,641,781,684" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="17,329,121,356" />
+<area shape="rect" href="$d1/d91/classLocalizedStringImplThemeMetric.html" title="LocalizedStringImplTheme\lMetric" alt="LocalizedStringImplTheme\lMetric" coords="863,71,1049,113" />
+<area shape="rect" href="$de/d7b/classThemeMetricDifficultiesToShow.html" title="ThemeMetricDifficultiesToShow" alt="ThemeMetricDifficultiesToShow" coords="843,137,1069,164" />
+<area shape="rect" href="$d8/d3b/classThemeMetricStepsTypesToShow.html" title="ThemeMetricStepsTypesToShow" alt="ThemeMetricStepsTypesToShow" coords="843,188,1069,215" />
+</map>

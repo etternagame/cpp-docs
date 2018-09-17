@@ -1,0 +1,10 @@
+<map id="Actor::TweenStateAndInfo" name="Actor::TweenStateAndInfo">
+<area shape="rect" href="$db/db5/structActor_1_1TweenState.html" title="The present state for the Tween. " alt="Actor::TweenState" coords="383,185,511,212" />
+<area shape="rect" href="$df/def/classStepMania_1_1Rect.html" title="StepMania::Rect\&lt; float \&gt;" alt="StepMania::Rect\&lt; float \&gt;" coords="17,25,191,52" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="56,121,152,148" />
+<area shape="rect" href="$db/dc5/structRageVector4.html" title="RageVector4" alt="RageVector4" coords="56,185,152,212" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="64,265,144,292" />
+<area shape="rect" href="$d3/db9/structActor_1_1TweenInfo.html" title="Some general information about the Tween. " alt="Actor::TweenInfo" coords="384,329,509,356" />
+<area shape="rect" href="$d7/d71/classITween.html" title="The interface for simple interpolation. " alt="ITween" coords="75,329,133,356" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="43,385,165,428" />
+</map>

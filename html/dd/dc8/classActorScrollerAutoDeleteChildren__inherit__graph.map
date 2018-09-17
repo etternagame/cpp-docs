@@ -1,0 +1,4 @@
+<map id="ActorScrollerAutoDeleteChildren" name="ActorScrollerAutoDeleteChildren">
+<area shape="rect" href="$d9/dcd/classActorScroller.html" title="ActorFrame that moves its children. " alt="ActorScroller" coords="73,92,169,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="76,17,166,44" />
+</map>

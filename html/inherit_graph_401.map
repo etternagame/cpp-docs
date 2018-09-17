@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" href="$d8/d96/structSMLoader.html" title="Reads a Song from an .SM file. " alt="SMLoader" coords="19,32,96,58" />
+<area shape="rect" href="$dd/df4/structSMALoader.html" title="Reads a Song from a .SMA file. " alt="SMALoader" coords="147,6,237,33" />
+<area shape="rect" href="$d8/d5b/structSSCLoader.html" title="The SSCLoader handles all of the parsing needed for .ssc files. " alt="SSCLoader" coords="151,57,233,84" />
+</map>

@@ -1,0 +1,7 @@
+<map id="NoteFieldRenderArgs" name="NoteFieldRenderArgs">
+<area shape="rect" href="$df/d6a/classGhostArrowRow.html" title="Row of GhostArrow Actors. " alt="GhostArrowRow" coords="753,237,878,264" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="352,268,442,294" />
+<area shape="rect" href="$d8/dbd/classReceptorArrowRow.html" title="A row of ReceptorArrow objects. " alt="ReceptorArrowRow" coords="744,452,888,478" />
+<area shape="rect" href="$d5/d7e/classPlayerState.html" title="The player&#39;s indivdual state. " alt="PlayerState" coords="356,516,438,542" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="780,694,852,721" />
+</map>

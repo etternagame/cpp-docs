@@ -1,0 +1,14 @@
+<map id="Steps" name="Steps">
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Steps \&gt;" alt="CachedObject\&lt; Steps \&gt;" coords="1716,568,1879,595" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="Cached object pointers with automatic invalidation. " alt="CachedObject\&lt; T \&gt;" coords="264,259,403,285" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Song \&gt;" alt="CachedObject\&lt; Song \&gt;" coords="687,319,849,345" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="1185,575,1228,601" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="724,980,812,1007" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="272,947,395,989" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="691,921,845,948" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" coords="677,483,859,525" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; NoteData \&gt;" alt="HiddenPtr\&lt; NoteData \&gt;" coords="1123,255,1291,281" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="732,255,804,281" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; T \&gt;" alt="HiddenPtr\&lt; T \&gt;" coords="711,191,825,217" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="1159,704,1255,731" />
+</map>

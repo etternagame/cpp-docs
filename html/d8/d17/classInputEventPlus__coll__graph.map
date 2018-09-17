@@ -1,0 +1,4 @@
+<map id="InputEventPlus" name="InputEventPlus">
+<area shape="rect" href="$d5/dd7/structGameInput.html" title="An input event specific to an InputScheme defined by a logical controller and button. " alt="GameInput" coords="7,108,92,134" />
+<area shape="rect" href="$d2/dd2/structDeviceInput.html" title="DeviceInput" alt="DeviceInput" coords="116,108,207,134" />
+</map>

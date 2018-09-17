@@ -1,0 +1,5 @@
+<map id="RageTexture" name="RageTexture">
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="237,148,320,174" />
+<area shape="rect" href="$d4/db6/structRageTextureID.html" title="RageTextureID" alt="RageTextureID" coords="379,148,491,174" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="373,17,496,60" />
+</map>

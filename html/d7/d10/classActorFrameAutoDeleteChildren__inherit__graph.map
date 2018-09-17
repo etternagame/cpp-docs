@@ -1,0 +1,5 @@
+<map id="ActorFrameAutoDeleteChildren" name="ActorFrameAutoDeleteChildren">
+<area shape="rect" href="$d0/d19/classBGAnimation.html" title="An ActorFrame that loads itself. " alt="BGAnimation" coords="65,241,169,268" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="72,92,162,119" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="93,17,141,44" />
+</map>

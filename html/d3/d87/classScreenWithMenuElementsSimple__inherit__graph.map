@@ -1,0 +1,5 @@
+<map id="ScreenWithMenuElementsSimple" name="ScreenWithMenuElementsSimple">
+<area shape="rect" href="$d1/d93/classScreenContinue.html" title="ScreenContinue" alt="ScreenContinue" coords="67,241,179,268" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="29,92,216,119" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="96,17,149,44" />
+</map>

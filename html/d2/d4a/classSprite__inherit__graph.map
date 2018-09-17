@@ -1,0 +1,8 @@
+<map id="Sprite" name="Sprite">
+<area shape="rect" href="$dc/d18/classBanner.html" title="The characteristics of a Banner. " alt="Banner" coords="6,241,65,268" />
+<area shape="rect" href="$d1/d24/classDifficultyIcon.html" title="DifficultyIcon" alt="DifficultyIcon" coords="89,241,193,268" />
+<area shape="rect" href="$d3/d4e/classQuad.html" title="A rectangular shaped Actor with color. " alt="Quad" coords="217,241,262,268" />
+<area shape="rect" href="$dc/d17/classWheelNotifyIcon.html" title="A little graphic to the side of the song&#39;s text banner in the MusicWheel. " alt="WheelNotifyIcon" coords="286,241,412,268" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="166,92,214,119" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="124,17,257,44" />
+</map>

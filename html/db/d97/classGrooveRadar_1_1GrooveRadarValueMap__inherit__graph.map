@@ -1,0 +1,4 @@
+<map id="GrooveRadar::GrooveRadarValueMap" name="GrooveRadar::GrooveRadarValueMap">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="57,92,148,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="79,17,127,44" />
+</map>

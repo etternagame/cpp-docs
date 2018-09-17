@@ -1,0 +1,15 @@
+<map id="RoomWheel" name="RoomWheel">
+<area shape="rect" href="$de/d73/classWheelBase.html" title="A wheel with data elements. " alt="WheelBase" coords="899,576,981,603" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="35,71,125,97" />
+<area shape="rect" href="$d9/d01/classScrollBar.html" title="ScrollBar" alt="ScrollBar" coords="440,213,509,240" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RageColor \&gt;" alt="ThemeMetric\&lt; RageColor \&gt;" coords="376,403,573,429" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,504,141,547" />
+<area shape="rect" href="$d0/d36/structWheelItemBaseData.html" title="WheelItemBaseData" alt="WheelItemBaseData" coords="403,464,547,491" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="403,536,547,563" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="432,632,517,659" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="396,736,553,763" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="40,244,120,271" />
+<area shape="rect" href="$d9/d67/classLuaExpressionTransform.html" title="Handle transforming a list of items. " alt="LuaExpressionTransform" coords="385,808,564,835" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="433,872,516,899" />
+<area shape="rect" href="$dc/df7/structRoomSearch.html" title="RoomSearch" alt="RoomSearch" coords="893,1128,987,1155" />
+</map>

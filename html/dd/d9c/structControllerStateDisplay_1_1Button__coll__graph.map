@@ -1,0 +1,6 @@
+<map id="ControllerStateDisplay::Button" name="ControllerStateDisplay::Button">
+<area shape="rect" href="$d5/dd7/structGameInput.html" title="An input event specific to an InputScheme defined by a logical controller and button. " alt="GameInput" coords="6,113,92,140" />
+<area shape="rect" href="$d2/dd2/structDeviceInput.html" title="DeviceInput" alt="DeviceInput" coords="116,113,206,140" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="230,113,310,140" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="246,20,294,47" />
+</map>

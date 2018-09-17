@@ -1,0 +1,12 @@
+<map id="ThreadedFileWorker" name="ThreadedFileWorker">
+<area shape="rect" href="$dd/d77/classRageWorkerThread.html" title="RageWorkerThread" alt="RageWorkerThread" coords="797,297,939,324" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="513,144,596,171" />
+<area shape="rect" href="$df/d88/structFileSet.html" title="This represents a directory. " alt="FileSet" coords="1003,137,1056,164" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,264,141,307" />
+<area shape="rect" href="$d4/d99/classRageMutex.html" title="RageMutex" alt="RageMutex" coords="265,399,353,425" />
+<area shape="rect" href="$dd/d20/classRageThread.html" title="Thread, mutex, semaphore, and event classes. " alt="RageThread" coords="377,241,468,268" />
+<area shape="rect" href="$d2/d17/classRageEvent.html" title="RageEvent" alt="RageEvent" coords="513,399,596,425" />
+<area shape="rect" href="$dc/d80/classFilenameDB.html" title="A container for a file listing. " alt="FilenameDB" coords="821,431,915,457" />
+<area shape="rect" href="$d0/d84/classRageFileDriver.html" title="RageFileDriver" alt="RageFileDriver" coords="1152,431,1261,457" />
+<area shape="rect" href="$dd/d75/classRageFileBasic.html" title="RageFileBasic" alt="RageFileBasic" coords="1156,561,1257,588" />
+</map>

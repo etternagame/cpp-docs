@@ -1,0 +1,4 @@
+<map id="ScoreDisplayOni" name="ScoreDisplayOni">
+<area shape="rect" href="$d2/ddc/classScoreDisplay.html" title="ScoreDisplay" alt="ScoreDisplay" coords="20,92,113,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="21,17,112,44" />
+</map>

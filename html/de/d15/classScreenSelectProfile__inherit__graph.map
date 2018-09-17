@@ -1,0 +1,4 @@
+<map id="ScreenSelectProfile" name="ScreenSelectProfile">
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="7,92,193,118" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="73,17,127,44" />
+</map>

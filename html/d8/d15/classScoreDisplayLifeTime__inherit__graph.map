@@ -1,0 +1,4 @@
+<map id="ScoreDisplayLifeTime" name="ScoreDisplayLifeTime">
+<area shape="rect" href="$d2/ddc/classScoreDisplay.html" title="ScoreDisplay" alt="ScoreDisplay" coords="38,92,132,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="40,17,130,44" />
+</map>

@@ -1,0 +1,12 @@
+<map id="BitmapText" name="BitmapText">
+<area shape="rect" href="$d3/d8e/classBPMDisplay.html" title="Displays a BPM or a range of BPMs. " alt="BPMDisplay" coords="469,7,563,33" />
+<area shape="rect" href="$d9/d67/classColorBitmapText.html" title="ColorBitmapText" alt="ColorBitmapText" coords="453,57,579,84" />
+<area shape="rect" href="$db/d6d/classDeviceList.html" title="DeviceList" alt="DeviceList" coords="477,108,555,135" />
+<area shape="rect" href="$d7/db6/classHelpDisplay.html" title="A BitmapText that cycles through messages. " alt="HelpDisplay" coords="471,159,561,185" />
+<area shape="rect" href="$dd/de3/classInputList.html" title="InputList" alt="InputList" coords="481,209,551,236" />
+<area shape="rect" href="$d0/d62/classRollingNumbers.html" title="Animates from one number to another by scrolling its digits. " alt="RollingNumbers" coords="456,260,576,287" />
+<area shape="rect" href="$d5/d22/classScoreDisplayAliveTime.html" title="Display a constantly updating figure of time the player is alive. " alt="ScoreDisplayAliveTime" coords="433,311,599,337" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="199,159,247,185" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="17,159,151,185" />
+<area shape="rect" href="$d3/d15/classSongBPMDisplay.html" title="SongBPMDisplay" alt="SongBPMDisplay" coords="647,7,775,33" />
+</map>

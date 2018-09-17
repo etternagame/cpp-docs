@@ -1,0 +1,4 @@
+<map id="SongBPMDisplay" name="SongBPMDisplay">
+<area shape="rect" href="$d3/d8e/classBPMDisplay.html" title="Displays a BPM or a range of BPMs. " alt="BPMDisplay" coords="24,92,117,118" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="27,17,115,44" />
+</map>

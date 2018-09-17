@@ -1,0 +1,4 @@
+<map id="ScreenGameplayShared" name="ScreenGameplayShared">
+<area shape="rect" href="$d8/d0e/classScreenGameplay.html" title="The music plays, the notes scroll, and the Player is pressing buttons. " alt="ScreenGameplay" coords="40,92,160,118" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="7,17,193,44" />
+</map>

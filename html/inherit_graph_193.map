@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" href="$de/d5f/classIPreference.html" title="IPreference" alt="IPreference" coords="17,380,103,406" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; T \&gt;" alt="Preference\&lt; T \&gt;" coords="228,6,345,33" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; AllowW1 \&gt;" alt="Preference\&lt; AllowW1 \&gt;" coords="201,57,372,84" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; AttractSound\lFrequency \&gt;" alt="Preference\&lt; AttractSound\lFrequency \&gt;" coords="196,108,377,150" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; BackgroundFit\lMode \&gt;" alt="Preference\&lt; BackgroundFit\lMode \&gt;" coords="191,174,383,217" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; bool \&gt;" alt="Preference\&lt; bool \&gt;" coords="219,241,355,268" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; float \&gt;" alt="Preference\&lt; float \&gt;" coords="217,292,356,318" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; HighResolution\lTextures \&gt;" alt="Preference\&lt; HighResolution\lTextures \&gt;" coords="188,342,385,385" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; ImageCacheMode \&gt;" alt="Preference\&lt; ImageCacheMode \&gt;" coords="173,409,400,436" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; int \&gt;" alt="Preference\&lt; int \&gt;" coords="224,460,349,486" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; Maybe \&gt;" alt="Preference\&lt; Maybe \&gt;" coords="209,510,364,537" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; MusicWheelUses\lSections \&gt;" alt="Preference\&lt; MusicWheelUses\lSections \&gt;" coords="183,561,391,604" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; ShowDancingCharacters \&gt;" alt="Preference\&lt; ShowDancingCharacters \&gt;" coords="152,628,421,654" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; StdString\l::CStdStr \&gt;" alt="Preference\&lt; StdString\l::CStdStr \&gt;" coords="209,678,364,721" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; TapNoteScore \&gt;" alt="Preference\&lt; TapNoteScore \&gt;" coords="187,745,387,772" />
+</map>

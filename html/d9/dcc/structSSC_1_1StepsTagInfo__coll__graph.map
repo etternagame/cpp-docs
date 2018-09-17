@@ -1,0 +1,12 @@
+<map id="SSC::StepsTagInfo" name="SSC::StepsTagInfo">
+<area shape="rect" href="$d8/d5b/structSSCLoader.html" title="The SSCLoader handles all of the parsing needed for .ssc files. " alt="SSCLoader" coords="1012,25,1095,52" />
+<area shape="rect" href="$d8/d96/structSMLoader.html" title="Reads a Song from an .SM file. " alt="SMLoader" coords="629,25,707,52" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,359,141,401" />
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="1164,553,1207,580" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="841,265,884,292" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="443,428,531,455" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Steps \&gt;" alt="CachedObject\&lt; Steps \&gt;" coords="1380,553,1543,580" />
+<area shape="rect" href="$d0/d3c/structMsdFile_1_1value__t.html" title="The list of params found in the files. " alt="MsdFile::value_t" coords="996,148,1111,175" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; NoteData \&gt;" alt="HiddenPtr\&lt; NoteData \&gt;" coords="779,849,947,876" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="815,393,911,420" />
+</map>

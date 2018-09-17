@@ -1,0 +1,4 @@
+<map id="MenuTimer" name="MenuTimer">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="7,92,97,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="28,17,76,44" />
+</map>

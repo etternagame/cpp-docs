@@ -1,0 +1,6 @@
+<map id="RageSoundReader_FileReader" name="RageSoundReader_FileReader">
+<area shape="rect" href="$d4/dbd/classRageSoundReader__MP3.html" title="RageSoundReader_MP3" alt="RageSoundReader_MP3" coords="6,166,180,193" />
+<area shape="rect" href="$d1/d10/classRageSoundReader__Vorbisfile.html" title="RageSoundReader_Vorbisfile" alt="RageSoundReader_Vorbisfile" coords="204,166,412,193" />
+<area shape="rect" href="$db/d3b/classRageSoundReader__WAV.html" title="RageSoundReader_WAV" alt="RageSoundReader_WAV" coords="436,166,620,193" />
+<area shape="rect" href="$dc/d88/classRageSoundReader.html" title="RageSoundReader" alt="RageSoundReader" coords="241,17,374,44" />
+</map>

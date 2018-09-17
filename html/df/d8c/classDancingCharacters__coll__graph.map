@@ -1,0 +1,14 @@
+<map id="DancingCharacters" name="DancingCharacters">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="742,646,833,673" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="460,534,508,561" />
+<area shape="rect" href="$d6/d18/classModel.html" title="Model" alt="Model" coords="762,302,813,329" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="748,541,828,568" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="57,532,153,558" />
+<area shape="rect" href="$d8/dac/classRageModelGeometry.html" title="RageModelGeometry" alt="RageModelGeometry" coords="408,238,560,265" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="44,361,166,404" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="65,840,145,866" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="432,801,536,828" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="746,697,829,724" />
+<area shape="rect" href="$d3/d54/structmsAnimation.html" title="msAnimation" alt="msAnimation" coords="433,364,534,390" />
+<area shape="rect" href="$d6/d5d/classRageCompiledGeometry.html" title="RageCompiledGeometry" alt="RageCompiledGeometry" coords="18,166,192,193" />
+</map>

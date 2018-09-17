@@ -1,0 +1,4 @@
+<map id="BrightnessOverlay" name="BrightnessOverlay">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="27,92,117,118" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="48,17,96,44" />
+</map>

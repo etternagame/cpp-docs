@@ -1,0 +1,14 @@
+<map id="BitmapText" name="BitmapText">
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="1224,486,1272,513" />
+<area shape="rect" href="$d5/d9a/classMessageSubscriber.html" title="MessageSubscriber" alt="MessageSubscriber" coords="717,432,850,458" />
+<area shape="rect" href="$d7/d3e/structRageVector2.html" title="RageVector2" alt="RageVector2" coords="736,486,832,513" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="305,210,401,237" />
+<area shape="rect" href="$db/db5/structActor_1_1TweenState.html" title="The present state for the Tween. " alt="Actor::TweenState" coords="720,253,848,280" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,1093,141,1136" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="1228,1284,1268,1310" />
+<area shape="rect" href="$dd/dfa/classFontPage.html" title="FontPage" alt="FontPage" coords="317,1382,389,1409" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; LuaClass \&gt;" alt="HiddenPtr\&lt; LuaClass \&gt;" coords="701,550,866,577" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="313,364,393,390" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="928,124,1141,150" />
+<area shape="rect" href="$d0/d81/structglyph.html" title="The components of a glyph (not technically a character). " alt="glyph" coords="760,1444,808,1470" />
+</map>

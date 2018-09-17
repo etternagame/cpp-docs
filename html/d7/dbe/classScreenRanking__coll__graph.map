@@ -1,0 +1,22 @@
+<map id="ScreenRanking" name="ScreenRanking">
+<area shape="rect" href="$d8/d7f/classScreenAttract.html" title="ScreenAttract" alt="ScreenAttract" coords="1680,1040,1778,1067" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="1189,1129,1376,1156" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="729,1087,884,1113" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="40,587,144,613" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="292,860,428,887" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="720,944,893,987" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="728,1288,885,1315" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; RageColor \&gt;" alt="ThemeMetric1D\&lt; RageColor \&gt;" coords="1622,139,1836,165" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; T \&gt;" alt="ThemeMetric1D\&lt; T \&gt;" coords="1206,31,1358,57" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RankingType \&gt;" alt="ThemeMetric\&lt; RankingType \&gt;" coords="697,692,916,719" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RString \&gt;" alt="ThemeMetric\&lt; RString \&gt;" coords="718,419,894,445" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="30,1329,153,1372" />
+<area shape="rect" href="$d8/de4/classLocalizedString.html" title="Get a String based on the user&#39;s natural language. " alt="LocalizedString" coords="304,1636,416,1663" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="518,1532,606,1559" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="40,916,144,943" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="766,829,846,856" />
+<area shape="rect" href="$d8/d44/classILocalizedStringImpl.html" title="ILocalizedStringImpl" alt="ILocalizedStringImpl" coords="18,1676,165,1703" />
+<area shape="rect" href="$dc/d18/classBanner.html" title="The characteristics of a Banner. " alt="Banner" coords="1700,1579,1758,1605" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="1258,1583,1306,1609" />
+<area shape="rect" href="$d8/d3b/classThemeMetricStepsTypesToShow.html" title="ThemeMetricStepsTypesToShow" alt="ThemeMetricStepsTypesToShow" coords="1169,419,1396,445" />
+</map>

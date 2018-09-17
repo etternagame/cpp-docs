@@ -1,0 +1,15 @@
+<map id="InputHandler" name="InputHandler">
+<area shape="rect" href="$d3/dd5/classInputHandler__DInput.html" title="InputHandler_DInput" alt="InputHandler_DInput" coords="328,6,485,33" />
+<area shape="rect" href="$d5/d95/classInputHandler__Linux__Event.html" title="InputHandler_Linux\l_Event" alt="InputHandler_Linux\l_Event" coords="332,57,481,100" />
+<area shape="rect" href="$de/d93/classInputHandler__Linux__Joystick.html" title="InputHandler_Linux\l_Joystick" alt="InputHandler_Linux\l_Joystick" coords="332,124,481,166" />
+<area shape="rect" href="$df/d8c/classInputHandler__Linux__PIUIO.html" title="InputHandler_Linux\l_PIUIO" alt="InputHandler_Linux\l_PIUIO" coords="332,190,481,233" />
+<area shape="rect" href="$dc/df0/classInputHandler__Linux__tty.html" title="InputHandler_Linux_tty" alt="InputHandler_Linux_tty" coords="318,257,494,284" />
+<area shape="rect" href="$d1/d74/classInputHandler__MacOSX__HID.html" title="InputHandler_MacOSX_HID" alt="InputHandler_MacOSX_HID" coords="302,308,510,334" />
+<area shape="rect" href="$dd/d79/classInputHandler__SextetStream.html" title="InputHandler_SextetStream" alt="InputHandler_SextetStream" coords="309,358,504,385" />
+<area shape="rect" href="$d6/d26/classInputHandler__Win32__MIDI.html" title="InputHandler_Win32_MIDI" alt="InputHandler_Win32_MIDI" coords="308,409,505,436" />
+<area shape="rect" href="$d1/d54/classInputHandler__Win32__Para.html" title="InputHandler_Win32_Para" alt="InputHandler_Win32_Para" coords="310,460,502,486" />
+<area shape="rect" href="$d3/d71/classInputHandler__Win32__Pump.html" title="InputHandler_Win32_Pump" alt="InputHandler_Win32_Pump" coords="305,510,508,537" />
+<area shape="rect" href="$d6/d71/classInputHandler__X11.html" title="InputHandler_X11" alt="InputHandler_X11" coords="341,561,472,588" />
+<area shape="rect" href="$dc/df0/classRageDriver.html" title="RageDriver" alt="RageDriver" coords="18,308,104,334" />
+<area shape="rect" href="$d0/d30/classInputHandler__SextetStreamFromFile.html" title="InputHandler_SextetStream\lFromFile" alt="InputHandler_SextetStream\lFromFile" coords="558,350,753,393" />
+</map>

@@ -1,0 +1,5 @@
+<map id="InputHandler_Win32_MIDI" name="InputHandler_Win32_MIDI">
+<area shape="rect" href="$db/df6/classInputHandler.html" title="A class designed to handle special input devices. " alt="InputHandler" coords="56,108,155,135" />
+<area shape="rect" href="$dc/df0/classRageDriver.html" title="RageDriver" alt="RageDriver" coords="11,17,96,44" />
+<area shape="rect" href="$d6/d3f/structDriverList.html" title="DriverList" alt="DriverList" coords="120,17,197,44" />
+</map>

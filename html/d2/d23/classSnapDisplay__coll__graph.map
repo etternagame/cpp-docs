@@ -1,0 +1,9 @@
+<map id="SnapDisplay" name="SnapDisplay">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="671,235,761,261" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="392,305,440,332" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="692,435,740,461" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="31,368,127,395" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="39,183,119,209" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="364,199,468,225" />
+<area shape="rect" href="$dc/d20/classRageTexture.html" title="RageTexture" alt="RageTexture" coords="368,520,464,547" />
+</map>

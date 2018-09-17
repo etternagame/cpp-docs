@@ -1,0 +1,12 @@
+<map id="RageSoundDriver" name="RageSoundDriver">
+<area shape="rect" href="$d8/d2e/classRageSoundDriver__ALSA9__Software.html" title="RageSoundDriver_ALSA9\l_Software" alt="RageSoundDriver_ALSA9\l_Software" coords="347,7,533,49" />
+<area shape="rect" href="$de/dc9/classRageSoundDriver__AU.html" title="RageSoundDriver_AU" alt="RageSoundDriver_AU" coords="359,73,521,100" />
+<area shape="rect" href="$df/dca/classRageSoundDriver__DSound__Software.html" title="RageSoundDriver_DSound\l_Software" alt="RageSoundDriver_DSound\l_Software" coords="344,124,536,167" />
+<area shape="rect" href="$d2/d97/classRageSoundDriver__JACK.html" title="RageSoundDriver_JACK" alt="RageSoundDriver_JACK" coords="349,191,531,217" />
+<area shape="rect" href="$d2/dcd/classRageSoundDriver__Null.html" title="RageSoundDriver_Null" alt="RageSoundDriver_Null" coords="356,241,524,268" />
+<area shape="rect" href="$d4/d13/classRageSoundDriver__OSS.html" title="RageSoundDriver_OSS" alt="RageSoundDriver_OSS" coords="357,292,523,319" />
+<area shape="rect" href="$d6/dab/classRageSoundDriver__PulseAudio.html" title="RageSoundDriver_PulseAudio" alt="RageSoundDriver_PulseAudio" coords="333,343,547,369" />
+<area shape="rect" href="$d3/dc4/classRageSoundDriver__WaveOut.html" title="RageSoundDriver_WaveOut" alt="RageSoundDriver_WaveOut" coords="339,393,541,420" />
+<area shape="rect" href="$dc/d2a/classRageSoundDriver__WDMKS.html" title="RageSoundDriver_WDMKS" alt="RageSoundDriver_WDMKS" coords="339,444,541,471" />
+<area shape="rect" href="$dc/df0/classRageDriver.html" title="RageDriver" alt="RageDriver" coords="19,241,104,268" />
+</map>

@@ -1,0 +1,31 @@
+<map id="ScreenNetSelectMusic" name="ScreenNetSelectMusic">
+<area shape="rect" href="$dc/d99/classScreenNetSelectBase.html" title="ScreenNetSelectBase" alt="ScreenNetSelectBase" coords="1832,361,1976,388" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="1288,850,1474,877" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="762,2824,917,2850" />
+<area shape="rect" href="$d7/def/classMusicWheel.html" title="MusicWheel" alt="MusicWheel" coords="1857,2641,1950,2668" />
+<area shape="rect" href="$d5/de4/classStepsDisplay.html" title="A graphical representation of a Steps or a Trail. " alt="StepsDisplay" coords="1334,1149,1428,1176" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="28,3209,132,3236" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="292,2682,428,2709" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetric\&lt; StdString\l::CStdStr \&gt;" coords="753,1692,926,1734" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; float \&gt;" alt="ThemeMetric\&lt; float \&gt;" coords="761,2646,918,2673" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; RageColor \&gt;" alt="ThemeMetric\&lt; RageColor \&gt;" coords="741,2937,938,2964" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; int \&gt;" alt="ThemeMetric\&lt; int \&gt;" coords="768,2364,912,2390" />
+<area shape="rect" href="$d3/d1b/classThemeMetricMap.html" title="ThemeMetricMap\&lt; RageColor \&gt;" alt="ThemeMetricMap\&lt; RageColor \&gt;" coords="477,3426,704,3453" />
+<area shape="rect" href="$d8/dab/classThemeMetric1D.html" title="ThemeMetric1D\&lt; RageColor \&gt;" alt="ThemeMetric1D\&lt; RageColor \&gt;" coords="996,3474,1209,3501" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; LuaReference \&gt;" alt="ThemeMetric\&lt; LuaReference \&gt;" coords="729,3204,950,3230" />
+<area shape="rect" href="$d3/d1b/classThemeMetricMap.html" title="ThemeMetricMap\&lt; StdString\l::CStdStr \&gt;" alt="ThemeMetricMap\&lt; StdString\l::CStdStr \&gt;" coords="489,3360,692,3402" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; SampleMusic\lPreviewMode \&gt;" alt="ThemeMetric\&lt; SampleMusic\lPreviewMode \&gt;" coords="740,2297,940,2340" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,1713,141,1756" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="796,869,884,896" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="818,401,861,428" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="316,589,404,616" />
+<area shape="rect" href="$de/d73/classWheelBase.html" title="A wheel with data elements. " alt="WheelBase" coords="1340,2408,1422,2434" />
+<area shape="rect" href="$d6/de5/classRageSound.html" title="RageSound" alt="RageSound" coords="797,1884,882,1910" />
+<area shape="rect" href="$d6/da6/classModIconRow.html" title="ModIconRow" alt="ModIconRow" coords="1330,1558,1432,1585" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="28,2593,132,2620" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="794,1569,885,1596" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="800,625,880,652" />
+<area shape="rect" href="$d9/d67/classColorBitmapText.html" title="ColorBitmapText" alt="ColorBitmapText" coords="1318,438,1444,465" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Song \&gt;" alt="CachedObject\&lt; Song \&gt;" coords="1300,292,1462,318" />
+<area shape="rect" href="$d2/d49/classAutoPtrCopyOnWrite.html" title="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" alt="AutoPtrCopyOnWrite\l\&lt; VBackgroundChange \&gt;" coords="269,640,450,682" />
+</map>

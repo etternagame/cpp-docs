@@ -1,0 +1,8 @@
+<map id="Font" name="Font">
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="496,94,619,137" />
+<area shape="rect" href="$dd/dfa/classFontPage.html" title="FontPage" alt="FontPage" coords="423,201,495,228" />
+<area shape="rect" href="$d0/d81/structglyph.html" title="The components of a glyph (not technically a character). " alt="glyph" coords="217,308,265,334" />
+<area shape="rect" href="$df/def/classStepMania_1_1Rect.html" title="StepMania::Rect\&lt; float \&gt;" alt="StepMania::Rect\&lt; float \&gt;" coords="7,201,180,228" />
+<area shape="rect" href="$d4/d29/structFontPageTextures.html" title="The textures used by the font. " alt="FontPageTextures" coords="195,102,323,129" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="841,308,921,334" />
+</map>

@@ -1,0 +1,6 @@
+<map id="ScreenPrompt" name="ScreenPrompt">
+<area shape="rect" href="$d2/ddd/classScreenSaveSync.html" title="ScreenSaveSync" alt="ScreenSaveSync" coords="7,241,121,268" />
+<area shape="rect" href="$dd/d8c/classScreenServiceAction.html" title="ScreenServiceAction" alt="ScreenServiceAction" coords="145,241,289,268" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="47,92,233,119" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="113,17,167,44" />
+</map>

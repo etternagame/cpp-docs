@@ -1,0 +1,16 @@
+<map id="IPreference" name="IPreference">
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; T \&gt;" alt="Preference\&lt; T \&gt;" coords="155,732,272,759" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; HighResolution\lTextures \&gt;" alt="Preference\&lt; HighResolution\lTextures \&gt;" coords="556,276,753,319" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; TapNoteScore \&gt;" alt="Preference\&lt; TapNoteScore \&gt;" coords="555,509,755,536" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; float \&gt;" alt="Preference\&lt; float \&gt;" coords="585,717,724,744" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; int \&gt;" alt="Preference\&lt; int \&gt;" coords="592,168,717,195" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; StdString\l::CStdStr \&gt;" alt="Preference\&lt; StdString\l::CStdStr \&gt;" coords="577,619,732,661" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; ShowDancingCharacters \&gt;" alt="Preference\&lt; ShowDancingCharacters \&gt;" coords="520,59,789,85" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; AllowW1 \&gt;" alt="Preference\&lt; AllowW1 \&gt;" coords="569,1385,740,1412" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; MusicWheelUses\lSections \&gt;" alt="Preference\&lt; MusicWheelUses\lSections \&gt;" coords="551,989,759,1032" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; bool \&gt;" alt="Preference\&lt; bool \&gt;" coords="587,1112,723,1139" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; AttractSound\lFrequency \&gt;" alt="Preference\&lt; AttractSound\lFrequency \&gt;" coords="564,1295,745,1337" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; BackgroundFit\lMode \&gt;" alt="Preference\&lt; BackgroundFit\lMode \&gt;" coords="559,867,751,909" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; Maybe \&gt;" alt="Preference\&lt; Maybe \&gt;" coords="577,399,732,425" />
+<area shape="rect" href="$db/de8/classPreference.html" title="Preference\&lt; ImageCacheMode \&gt;" alt="Preference\&lt; ImageCacheMode \&gt;" coords="541,1232,768,1259" />
+</map>

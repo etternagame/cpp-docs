@@ -1,0 +1,9 @@
+<map id="XMLProfile" name="XMLProfile">
+<area shape="rect" href="$dd/d34/classProfile.html" title="Player data that persists between sessions. " alt="Profile" coords="898,288,952,315" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="229,132,352,175" />
+<area shape="rect" href="$d0/d5e/classSongID.html" title="SongID" alt="SongID" coords="561,201,620,228" />
+<area shape="rect" href="$d5/daa/classDBProfile.html" title="DBProfile" alt="DBProfile" coords="1100,288,1177,315" />
+<area shape="rect" href="$d1/d0a/structDateTime.html" title="A standard way of determining the date and the time. " alt="DateTime" coords="253,347,328,373" />
+<area shape="rect" href="$d9/df0/structHighScoreList.html" title="The list of high scores. " alt="HighScoreList" coords="540,380,641,407" />
+<area shape="rect" href="$d5/db4/classLuaTable.html" title="LuaTable" alt="LuaTable" coords="554,436,626,463" />
+</map>

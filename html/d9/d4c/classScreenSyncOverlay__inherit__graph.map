@@ -1,0 +1,4 @@
+<map id="ScreenSyncOverlay" name="ScreenSyncOverlay">
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="49,92,103,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="31,17,121,44" />
+</map>

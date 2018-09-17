@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" href="$dd/d75/classRageFileBasic.html" title="RageFileBasic" alt="RageFileBasic" coords="17,133,119,160" />
+<area shape="rect" href="$dd/d5e/classRageFile.html" title="High-level file access. " alt="RageFile" coords="180,108,247,135" />
+<area shape="rect" href="$d5/df7/classRageFileObj.html" title="RageFileObj" alt="RageFileObj" coords="167,159,260,185" />
+<area shape="rect" href="$d4/d6d/classRageFileDriverReadAhead.html" title="RageFileDriverReadAhead" alt="RageFileDriverReadAhead" coords="308,7,497,33" />
+<area shape="rect" href="$d1/de5/classRageFileDriverSlice.html" title="RageFileDriverSlice" alt="RageFileDriverSlice" coords="333,57,472,84" />
+<area shape="rect" href="$d4/da2/classRageFileObjDeflate.html" title="RageFileObjDeflate" alt="RageFileObjDeflate" coords="332,108,473,135" />
+<area shape="rect" href="$dc/da7/classRageFileObjDirect.html" title="This driver handles direct file access. " alt="RageFileObjDirect" coords="336,159,469,185" />
+<area shape="rect" href="$d7/d39/classRageFileObjInflate.html" title="RageFileObjInflate" alt="RageFileObjInflate" coords="335,209,471,236" />
+<area shape="rect" href="$d6/dd8/classRageFileObjMem.html" title="RageFileObjMem" alt="RageFileObjMem" coords="339,260,467,287" />
+<area shape="rect" href="$d5/da9/classRageFileObjTimeout.html" title="RageFileObjTimeout" alt="RageFileObjTimeout" coords="329,311,476,337" />
+<area shape="rect" href="$d6/d26/classRageFileObjGzip.html" title="RageFileObjGzip" alt="RageFileObjGzip" coords="547,108,669,135" />
+</map>

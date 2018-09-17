@@ -1,0 +1,4 @@
+<map id="BGAnimation" name="BGAnimation">
+<area shape="rect" href="$d9/db5/classActorFrameAutoDeleteChildren.html" title="an ActorFrame that handles deleting children Actors automatically. " alt="ActorFrameAutoDeleteChildren" coords="6,92,228,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="72,17,162,44" />
+</map>

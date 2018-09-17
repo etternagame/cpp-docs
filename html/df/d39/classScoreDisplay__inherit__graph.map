@@ -1,0 +1,8 @@
+<map id="ScoreDisplay" name="ScoreDisplay">
+<area shape="rect" href="$d9/dcb/classScoreDisplayLifeTime.html" title="Display a updating count of life time remaining. " alt="ScoreDisplayLifeTime" coords="6,241,164,268" />
+<area shape="rect" href="$d7/dee/classScoreDisplayNormal.html" title="Shows point score during gameplay and some menus. " alt="ScoreDisplayNormal" coords="188,241,334,268" />
+<area shape="rect" href="$d5/dc7/classScoreDisplayOni.html" title="Shows time into course. " alt="ScoreDisplayOni" coords="358,241,478,268" />
+<area shape="rect" href="$dc/d5b/classScoreDisplayPercentage.html" title="ScoreDisplay implementation for a percentage display. " alt="ScoreDisplayPercentage" coords="502,241,668,268" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="294,92,385,119" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="316,17,364,44" />
+</map>

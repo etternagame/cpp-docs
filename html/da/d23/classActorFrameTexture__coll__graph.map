@@ -1,0 +1,11 @@
+<map id="ActorFrameTexture" name="ActorFrameTexture">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="716,305,807,332" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="392,241,440,268" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="32,483,128,509" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,28,141,71" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="40,183,120,209" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="364,305,468,332" />
+<area shape="rect" href="$d0/dca/classRageTextureRenderTarget.html" title="RageTextureRenderTarget" alt="RageTextureRenderTarget" coords="668,575,855,601" />
+<area shape="rect" href="$dc/d20/classRageTexture.html" title="RageTexture" alt="RageTexture" coords="368,575,464,601" />
+<area shape="rect" href="$d6/d4a/structRenderTargetParam.html" title="RenderTargetParam" alt="RenderTargetParam" coords="344,628,488,655" />
+</map>

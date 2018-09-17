@@ -1,0 +1,19 @@
+<map id="BeginnerHelper" name="BeginnerHelper">
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="799,366,889,393" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="460,580,508,606" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="820,842,868,869" />
+<area shape="rect" href="$d6/d18/classModel.html" title="Model" alt="Model" coords="819,1140,869,1166" />
+<area shape="rect" href="$da/de3/classAutoActor.html" title="A smart pointer for Actor. " alt="AutoActor" coords="804,598,884,625" />
+<area shape="rect" href="$d7/dc2/structRageVector3.html" title="RageVector3" alt="RageVector3" coords="57,534,153,561" />
+<area shape="rect" href="$d8/dac/classRageModelGeometry.html" title="RageModelGeometry" alt="RageModelGeometry" coords="408,1261,560,1288" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="44,750,167,793" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="ThemeMetric\&lt; bool \&gt;" alt="ThemeMetric\&lt; bool \&gt;" coords="767,745,921,772" />
+<area shape="rect" href="$db/dd8/classThemeMetric.html" title="The theme specific data. " alt="ThemeMetric\&lt; T \&gt;" coords="416,750,552,777" />
+<area shape="rect" href="$d8/d87/structRageColor.html" title="RageColor" alt="RageColor" coords="65,132,145,158" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="53,449,157,476" />
+<area shape="rect" href="$de/d77/classIThemeMetric.html" title="The general interface for reading ThemeMetrics. " alt="IThemeMetric" coords="53,1010,157,1037" />
+<area shape="rect" href="$dc/d20/classRageTexture.html" title="RageTexture" alt="RageTexture" coords="436,860,532,886" />
+<area shape="rect" href="$d3/d54/structmsAnimation.html" title="msAnimation" alt="msAnimation" coords="433,1148,535,1174" />
+<area shape="rect" href="$d6/d5d/classRageCompiledGeometry.html" title="RageCompiledGeometry" alt="RageCompiledGeometry" coords="19,1345,192,1372" />
+<area shape="rect" href="$dc/d69/classNoteData.html" title="Holds data about the notes that the player is supposed to hit. " alt="NoteData" coords="808,1518,880,1545" />
+</map>

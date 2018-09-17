@@ -1,0 +1,5 @@
+<map id="LowLevelWindow_X11" name="LowLevelWindow_X11">
+<area shape="rect" href="$d4/d9f/classLowLevelWindow.html" title="Handle low-level operations that OGL 1.x doesn&#39;t give us. " alt="LowLevelWindow" coords="6,140,140,166" />
+<area shape="rect" href="$dc/dc2/classVideoModeParams.html" title="The parameters used for the present Video Mode. " alt="VideoModeParams" coords="164,140,300,166" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="170,17,293,60" />
+</map>

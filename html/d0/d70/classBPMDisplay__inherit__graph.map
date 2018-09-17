@@ -1,0 +1,5 @@
+<map id="BPMDisplay" name="BPMDisplay">
+<area shape="rect" href="$d3/d15/classSongBPMDisplay.html" title="SongBPMDisplay" alt="SongBPMDisplay" coords="7,241,135,268" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="27,92,115,119" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="47,17,95,44" />
+</map>

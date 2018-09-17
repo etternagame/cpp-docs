@@ -1,0 +1,7 @@
+<map id="ColorBitmapText" name="ColorBitmapText">
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="872,351,960,377" />
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="512,204,560,231" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="18,167,141,209" />
+<area shape="rect" href="$d4/d42/classFont.html" title="Font" alt="Font" coords="516,255,556,281" />
+<area shape="rect" href="$da/d10/structBitmapText_1_1BMT__TweenState.html" title="BitmapText::BMT_TweenState" alt="BitmapText::BMT_TweenState" coords="429,25,642,52" />
+</map>

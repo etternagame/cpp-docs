@@ -1,0 +1,17 @@
+<map id="ScreenOptions" name="ScreenOptions">
+<area shape="rect" href="$d9/d47/classScreenMiniMenu.html" title="ScreenMiniMenu" alt="ScreenMiniMenu" coords="552,6,675,33" />
+<area shape="rect" href="$d4/da2/classScreenNetworkOptions.html" title="ScreenNetworkOptions" alt="ScreenNetworkOptions" coords="532,57,695,84" />
+<area shape="rect" href="$dc/d6a/classScreenOptionsCourseOverview.html" title="ScreenOptionsCourseOverview" alt="ScreenOptionsCourseOverview" coords="507,108,720,134" />
+<area shape="rect" href="$d3/d60/classScreenOptionsEditProfile.html" title="ScreenOptionsEditProfile" alt="ScreenOptionsEditProfile" coords="525,158,701,185" />
+<area shape="rect" href="$d9/d1b/classScreenOptionsExportPackage.html" title="A menu for exporting packages. " alt="ScreenOptionsExportPackage" coords="512,209,715,236" />
+<area shape="rect" href="$dd/d5a/classScreenOptionsExportPackageSubPage.html" title="ScreenOptionsExportPackage\lSubPage" alt="ScreenOptionsExportPackage\lSubPage" coords="512,260,715,302" />
+<area shape="rect" href="$d1/d7b/classScreenOptionsManageProfiles.html" title="ScreenOptionsManageProfiles" alt="ScreenOptionsManageProfiles" coords="509,326,717,353" />
+<area shape="rect" href="$d5/dfb/classScreenOptionsMaster.html" title="ScreenOptionsMaster" alt="ScreenOptionsMaster" coords="539,377,688,404" />
+<area shape="rect" href="$d7/d8b/classScreenOptionsToggleSongs.html" title="ScreenOptionsToggleSongs" alt="ScreenOptionsToggleSongs" coords="520,428,707,454" />
+<area shape="rect" href="$dc/dc4/classScreenOptionsToggleSongsSubPage.html" title="ScreenOptionsToggleSongs\lSubPage" alt="ScreenOptionsToggleSongs\lSubPage" coords="520,478,707,521" />
+<area shape="rect" href="$d2/d36/classScreenSMOnlineLogin.html" title="ScreenSMOnlineLogin" alt="ScreenSMOnlineLogin" coords="535,545,692,572" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="119,268,305,294" />
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="17,268,71,294" />
+<area shape="rect" href="$dd/dd6/classScreenPlayerOptions.html" title="ScreenPlayerOptions" alt="ScreenPlayerOptions" coords="771,352,915,378" />
+<area shape="rect" href="$d0/dfd/classScreenSongOptions.html" title="ScreenSongOptions" alt="ScreenSongOptions" coords="775,402,911,429" />
+</map>

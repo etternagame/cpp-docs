@@ -1,0 +1,4 @@
+<map id="ScreenNetEvaluation" name="ScreenNetEvaluation">
+<area shape="rect" href="$d8/d78/classScreenEvaluation.html" title="Shows the player their score after gameplay has ended. " alt="ScreenEvaluation" coords="39,92,161,118" />
+<area shape="rect" href="$d2/def/classScreenWithMenuElements.html" title="ScreenWithMenuElements" alt="ScreenWithMenuElements" coords="7,17,193,44" />
+</map>

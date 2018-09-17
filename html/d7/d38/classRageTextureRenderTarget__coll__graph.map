@@ -1,0 +1,6 @@
+<map id="RageTextureRenderTarget" name="RageTextureRenderTarget">
+<area shape="rect" href="$dc/d20/classRageTexture.html" title="RageTexture" alt="RageTexture" coords="231,124,327,150" />
+<area shape="rect" href="$dc/d8a/classRageTimer.html" title="RageTimer" alt="RageTimer" coords="237,25,320,52" />
+<area shape="rect" href="$d4/db6/structRageTextureID.html" title="RageTextureID" alt="RageTextureID" coords="379,25,491,52" />
+<area shape="rect" href="$d6/d4a/structRenderTargetParam.html" title="RenderTargetParam" alt="RenderTargetParam" coords="351,124,495,150" />
+</map>

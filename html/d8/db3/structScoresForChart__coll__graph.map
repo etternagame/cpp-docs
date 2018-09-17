@@ -1,0 +1,6 @@
+<map id="ScoresForChart" name="ScoresForChart">
+<area shape="rect" href="$da/dff/structChart.html" title="Chart" alt="Chart" coords="184,583,232,609" />
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="237,492,280,519" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="104,335,146,361" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="50,17,173,60" />
+</map>

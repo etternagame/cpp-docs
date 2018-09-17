@@ -1,0 +1,4 @@
+<map id="ScoreKeeper" name="ScoreKeeper">
+<area shape="rect" href="$dc/d1b/classScoreKeeperNormal.html" title="The default ScoreKeeper implementation. " alt="ScoreKeeperNormal" coords="7,92,151,118" />
+<area shape="rect" href="$dd/d44/classScoreKeeperShared.html" title="ScoreKeeper for Routine mode. " alt="ScoreKeeperShared" coords="11,166,147,193" />
+</map>

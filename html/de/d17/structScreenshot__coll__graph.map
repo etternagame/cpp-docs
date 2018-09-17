@@ -1,0 +1,5 @@
+<map id="Screenshot" name="Screenshot">
+<area shape="rect" href="$dd/dc1/structHighScore.html" title="The high score that is earned by a player. " alt="HighScore" coords="220,132,297,158" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; HighScoreImpl \&gt;" alt="HiddenPtr\&lt; HighScoreImpl \&gt;" coords="6,17,212,44" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="321,124,444,166" />
+</map>

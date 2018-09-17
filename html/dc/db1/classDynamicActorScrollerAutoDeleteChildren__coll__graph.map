@@ -1,0 +1,5 @@
+<map id="DynamicActorScrollerAutoDeleteChildren" name="DynamicActorScrollerAutoDeleteChildren">
+<area shape="rect" href="$d1/d7c/classDynamicActorScroller.html" title="ActorScroller that fills in its children on the fly. " alt="DynamicActorScroller" coords="37,108,195,135" />
+<area shape="rect" href="$d9/dcd/classActorScroller.html" title="ActorFrame that moves its children. " alt="ActorScroller" coords="7,17,103,44" />
+<area shape="rect" href="$d0/d71/classLuaReference.html" title="A self-cleaning Lua reference. " alt="LuaReference" coords="127,17,231,44" />
+</map>

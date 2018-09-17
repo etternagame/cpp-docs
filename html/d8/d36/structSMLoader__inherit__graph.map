@@ -1,0 +1,4 @@
+<map id="SMLoader" name="SMLoader">
+<area shape="rect" href="$dd/df4/structSMALoader.html" title="Reads a Song from a .SMA file. " alt="SMALoader" coords="6,92,97,119" />
+<area shape="rect" href="$d8/d5b/structSSCLoader.html" title="The SSCLoader handles all of the parsing needed for .ssc files. " alt="SSCLoader" coords="121,92,204,119" />
+</map>

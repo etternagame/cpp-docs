@@ -1,0 +1,4 @@
+<map id="RoomWheel" name="RoomWheel">
+<area shape="rect" href="$de/d73/classWheelBase.html" title="A wheel with data elements. " alt="WheelBase" coords="12,92,94,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="8,17,98,44" />
+</map>

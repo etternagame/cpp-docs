@@ -1,0 +1,17 @@
+<map id="MessageSubscriber" name="MessageSubscriber">
+<area shape="rect" href="$df/d6a/classActor.html" title="Base class for all objects that appear on the screen. " alt="Actor" coords="457,285,505,312" />
+<area shape="rect" href="$d9/d7a/classGameStateMessageHandler.html" title="GameStateMessageHandler" alt="GameStateMessageHandler" coords="387,336,576,363" />
+<area shape="rect" href="$d0/d1b/classIMessageSubscriber.html" title="IMessageSubscriber" alt="IMessageSubscriber" coords="17,311,156,337" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="659,7,749,33" />
+<area shape="rect" href="$da/d7f/classActorMultiTexture.html" title="ActorMultiTexture" alt="ActorMultiTexture" coords="636,57,772,84" />
+<area shape="rect" href="$d1/d05/classActorMultiVertex.html" title="ActorMultiVertex" alt="ActorMultiVertex" coords="640,108,768,135" />
+<area shape="rect" href="$d6/d15/classActorProxy.html" title="Renders another actor. " alt="ActorProxy" coords="660,159,748,185" />
+<area shape="rect" href="$d8/d45/classActorSound.html" title="RageSound Actor interface. " alt="ActorSound" coords="660,209,748,236" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="660,260,748,287" />
+<area shape="rect" href="$d7/d0c/classGraphBody.html" title="GraphBody" alt="GraphBody" coords="660,311,748,337" />
+<area shape="rect" href="$d0/dfd/classGraphLine.html" title="GraphLine" alt="GraphLine" coords="663,361,745,388" />
+<area shape="rect" href="$d8/d9b/classHiddenActor.html" title="Set up a hidden Actor that won&#39;t be drawn. " alt="HiddenActor" coords="656,412,752,439" />
+<area shape="rect" href="$d6/d18/classModel.html" title="Model" alt="Model" coords="679,463,729,489" />
+<area shape="rect" href="$d1/d18/structNoteColumnRenderer.html" title="NoteColumnRenderer" alt="NoteColumnRenderer" coords="625,513,783,540" />
+<area shape="rect" href="$d1/d6d/classSprite.html" title="A bitmap Actor that animates and moves around. " alt="Sprite" coords="680,564,728,591" />
+</map>

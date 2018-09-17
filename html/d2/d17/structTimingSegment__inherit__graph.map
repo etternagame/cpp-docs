@@ -1,0 +1,13 @@
+<map id="TimingSegment" name="TimingSegment">
+<area shape="rect" href="$de/d66/structBPMSegment.html" title="Identifies when a song changes its BPM. " alt="BPMSegment" coords="211,6,312,33" />
+<area shape="rect" href="$d5/d48/structComboSegment.html" title="Identifies when a chart is to have a different combo multiplier value. " alt="ComboSegment" coords="204,57,319,84" />
+<area shape="rect" href="$dd/d9f/structDelaySegment.html" title="Identifies when a song has a delay, or pump style stop. " alt="DelaySegment" coords="209,108,313,134" />
+<area shape="rect" href="$d7/dae/structFakeSegment.html" title="Identifies when a whole region of arrows is to be ignored. " alt="FakeSegment" coords="212,158,311,185" />
+<area shape="rect" href="$d6/de9/structLabelSegment.html" title="Identifies when a chart is entering a different section. " alt="LabelSegment" coords="209,209,313,236" />
+<area shape="rect" href="$db/d95/structScrollSegment.html" title="Identifies when the chart scroll changes. " alt="ScrollSegment" coords="211,260,312,286" />
+<area shape="rect" href="$dd/d32/structSpeedSegment.html" title="Identifies when the arrow scroll changes. " alt="SpeedSegment" coords="209,310,313,337" />
+<area shape="rect" href="$de/dc5/structStopSegment.html" title="Identifies when a song has a stop, DDR/ITG style. " alt="StopSegment" coords="213,361,309,388" />
+<area shape="rect" href="$d2/db4/structTickcountSegment.html" title="Identifies when a chart is to have a different tickcount value for hold notes. " alt="TickcountSegment" coords="195,412,328,438" />
+<area shape="rect" href="$d7/db3/structTimeSignatureSegment.html" title="Identifies when a song changes its time signature. " alt="TimeSignatureSegment" coords="180,462,343,489" />
+<area shape="rect" href="$df/d73/structWarpSegment.html" title="Identifies when a song needs to warp to a new beat. " alt="WarpSegment" coords="209,513,313,540" />
+</map>

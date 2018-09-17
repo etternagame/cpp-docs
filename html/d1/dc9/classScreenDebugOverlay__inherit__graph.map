@@ -1,0 +1,4 @@
+<map id="ScreenDebugOverlay" name="ScreenDebugOverlay">
+<area shape="rect" href="$df/dc5/classScreen.html" title="Class that holds a screen-full of Actors. " alt="Screen" coords="54,92,108,118" />
+<area shape="rect" href="$d8/db8/classActorFrame.html" title="A container for other Actors. " alt="ActorFrame" coords="36,17,126,44" />
+</map>

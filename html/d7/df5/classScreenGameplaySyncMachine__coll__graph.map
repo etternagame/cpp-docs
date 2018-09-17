@@ -1,0 +1,12 @@
+<map id="ScreenGameplaySyncMachine" name="ScreenGameplaySyncMachine">
+<area shape="rect" href="$d5/db4/classScreenGameplayNormal.html" title="ScreenGameplayNormal" alt="ScreenGameplayNormal" coords="1159,465,1332,492" />
+<area shape="rect" href="$d8/d0e/classScreenGameplay.html" title="The music plays, the notes scroll, and the Player is pressing buttons. " alt="ScreenGameplay" coords="803,413,923,440" />
+<area shape="rect" href="$d9/d1d/classBitmapText.html" title="An actor that holds a Font and draws text to the screen. " alt="BitmapText" coords="443,152,531,179" />
+<area shape="rect" href="$da/d2e/classStdString_1_1CStdStr.html" title="Our wrapper for std::string. " alt="StdString::CStdStr\l\&lt; CT \&gt;" coords="19,313,141,356" />
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="1224,723,1267,749" />
+<area shape="rect" href="$dc/d35/classSong.html" title="Holds all music metadata and steps for one song. " alt="Song" coords="841,611,884,637" />
+<area shape="rect" href="$d2/d1d/classTimingData.html" title="Holds data for translating beats&lt;-&gt;seconds. " alt="TimingData" coords="443,715,531,741" />
+<area shape="rect" href="$d3/d36/classCachedObject.html" title="CachedObject\&lt; Steps \&gt;" alt="CachedObject\&lt; Steps \&gt;" coords="1524,747,1687,773" />
+<area shape="rect" href="$d2/dde/classHiddenPtr.html" title="HiddenPtr\&lt; NoteData \&gt;" alt="HiddenPtr\&lt; NoteData \&gt;" coords="779,844,947,871" />
+<area shape="rect" href="$d8/d55/structRadarValues.html" title="Cached song statistics. " alt="RadarValues" coords="815,908,911,935" />
+</map>

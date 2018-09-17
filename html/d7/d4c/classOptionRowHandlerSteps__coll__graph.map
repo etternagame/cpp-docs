@@ -1,0 +1,10 @@
+<map id="OptionRowHandlerSteps" name="OptionRowHandlerSteps">
+<area shape="rect" href="$d0/d4e/classOptionRowHandler.html" title="Shows PlayerOptions and SongOptions in icon form. " alt="OptionRowHandler" coords="965,65,1107,92" />
+<area shape="rect" href="$dc/d99/structOptionRowDefinition.html" title="Define the purpose of the OptionRow. " alt="OptionRowDefinition" coords="580,71,735,97" />
+<area shape="rect" href="$df/d1d/classBroadcastOnChange.html" title="BroadcastOnChange\&lt;\l StepsType \&gt;" alt="BroadcastOnChange\&lt;\l StepsType \&gt;" coords="959,244,1113,287" />
+<area shape="rect" href="$df/d1d/classBroadcastOnChange.html" title="BroadcastOnChange\&lt; T \&gt;" alt="BroadcastOnChange\&lt; T \&gt;" coords="567,285,748,312" />
+<area shape="rect" href="$df/d1d/classBroadcastOnChange.html" title="BroadcastOnChange\&lt;\l Difficulty \&gt;" alt="BroadcastOnChange\&lt;\l Difficulty \&gt;" coords="959,311,1113,353" />
+<area shape="rect" href="$db/dcf/classBroadcastOnChangePtr.html" title="BroadcastOnChangePtr\l\&lt; Steps \&gt;" alt="BroadcastOnChangePtr\l\&lt; Steps \&gt;" coords="953,377,1119,420" />
+<area shape="rect" href="$d5/df8/classSteps.html" title="Holds note information for a Song. " alt="Steps" coords="636,384,679,411" />
+<area shape="rect" href="$db/dcf/classBroadcastOnChangePtr.html" title="BroadcastOnChangePtr\&lt; T \&gt;" alt="BroadcastOnChangePtr\&lt; T \&gt;" coords="556,448,759,475" />
+</map>
